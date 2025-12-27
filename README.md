@@ -130,3 +130,14 @@
 - [Scenario Based Codebase](https://github.com/aryamishra01/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)  
 - [LeetCode Array Practice](https://github.com/aryamishra01/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Array-Practice)  
 
+---
+
+### 📅 Day 10 – Core Java: LeetCode String Problems  
+**(Date: 27-Dec-2025)**
+
+- Solved multiple LeetCode string-based problems to strengthen problem-solving and logical thinking skills  
+- Practiced problems like `AddStrings`, `FindFirstOccurrence`, `LengthOfLastWord`, `ValidAnagram`, and `ValidPalindrome`  
+- Focused on string manipulation, character handling, and using loops and conditional logic effectively  
+
+🔗 **Code Links:**  
+- [LeetCode String Practice](https://github.com/aryamishra01/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/String-Practice)
