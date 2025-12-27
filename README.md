@@ -118,22 +118,15 @@
 
 ---
 
-## 📅 Day 9 – Scenario-Based Core Java Practice  
-**Date:** 26-Dec-2025  
+### 📅 Day 9 – Core Java: Scenario-Based Problems & LeetCode  
+**(Date: 26-Dec-2025)**
 
-- Practiced real-world, scenario-based programming using **Core Java** concepts.  
-- Focused on applying conditional logic, loops, and user input handling in practical scenarios.  
-- Designed interactive programs that simulate real-life system behavior.  
-- Strengthened logical thinking, control flow, and structured program design.  
-- Followed clean coding practices including proper naming conventions, indentation, and comments.
+- Solved 3 real-world scenario-based Core Java problems using conditional statements, loops, switch-case, and operators  
+- Implemented programs like Election Booth Manager, Metro Smart Card Fare Deduction, and Result Generator  
+- Practiced if-else, ternary operator, for-loops, switch-case, and user input handling  
+- Solved a few LeetCode problems to strengthen problem-solving and logical thinking skills
 
-### 🔑 Key Concepts Applied
-- Variables, literals, and primitive data types  
-- User input handling using `Scanner`  
-- Conditional statements (`if-else`, `switch`, ternary operator)  
-- Looping constructs (`for`, `while`)  
-- Control flow using `break` and `continue`  
-- Arithmetic operations and basic validations  
+🔗 **Code Links:**  
+- [Scenario Based Codebase](https://github.com/aryamishra01/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)  
+- [LeetCode Array Practice](https://github.com/aryamishra01/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Array-Practice)  
 
-### 🔗 Code Link
-👉 [Day 9 - Scenario based Java Programs](https://github.com/aryamishra01/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
