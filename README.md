@@ -150,7 +150,7 @@
 - Focused on two‑pointer technique, ASCII handling, in‑place modification, and conditional logic for string/array manipulation
 
 🔗 **Code Links:**  
-- **Array Practice:** [Link](https://github.com/aryamishra01/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Array-Practice)  
-- **String Practice:** [Link](https://github.com/aryamishra01/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/String-Practice)
+- [Array Practice](https://github.com/aryamishra01/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Array-Practice)  
+- [String Practice](https://github.com/aryamishra01/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/String-Practice)
 
 ---
