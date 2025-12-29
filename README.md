@@ -154,3 +154,13 @@
 - [String Practice](https://github.com/aryamishra01/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/String-Practice)
 
 ---
+
+### 📅 Day 12 – Core Java: Scenario-Based Problems  
+**(Date: 29-Dec-2025)**
+
+- Solved 5 real-world scenario-based Core Java problems using loops, conditional statements, switch-case, and user input handling  
+- Implemented programs like `Parking Lot Gate System`, `Number Guessing Game`, `Shopkeeper’s Discount Dashboard`, `School Bus Attendance System`, and `Phone Recharge Simulator`  
+- Practiced `for-loop`, `for-each loop`, `while loop`, `do-while loop`, `if-else`, `switch-case`, and menu-driven program logic  
+
+🔗 **Code Link:**  
+[Scenario Based Codebase](https://github.com/aryamishra01/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)  
