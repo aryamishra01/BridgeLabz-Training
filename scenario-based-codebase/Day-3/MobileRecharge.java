@@ -1,5 +1,5 @@
 /*
-Phone Recharge Simulator 📱
+Phone Recharge Simulator 
 Take the user's mobile operator and amount.
 ● Use a switch to display offers.
 ● Loop to allow repeated recharges.
