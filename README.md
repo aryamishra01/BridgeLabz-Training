@@ -33,3 +33,25 @@
 
 🔗 **Code Link:**  
 👉 [Day 2 – Constructors, Static Members & Access Modifiers](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/level1)
+
+---
+
+### 📅 Day 3 – Java Keywords: this, static, final & instanceof  
+**(Date: 29-Dec-2025)**
+
+- Learned the use of **`this` keyword** to refer to current object  
+- Practiced **`static` keyword** for class-level variables and methods  
+- Understood **`final` keyword** for constants and preventing inheritance/overriding  
+- Explored **`instanceof` operator** to check object types at runtime  
+- Applied these keywords in **real-world mini programs**:  
+  - BankAccount  
+  - Book  
+  - Company  
+  - Library  
+  - Patient  
+  - Product  
+  - Student  
+  - Vehicle  
+
+🔗 **Code Link:**  
+👉 [Day 3 – this, static, final & instanceof](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/keywords/level1)
