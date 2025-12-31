@@ -181,3 +181,14 @@
 
 ---
 
+### 📅 Day 14 – Core Java: Scenario-Based Problems  
+**(Date: 31-Dec-2025)**
+
+- Solved 5 real-world scenario-based Core Java problems using loops, conditional statements, switch-case, and user input handling  
+- Implemented programs like `Digital Watch Simulation`, `Online Quiz Application`, `Currency Exchange Kiosk`, `Bus Route Distance Tracker`, and `Festival Lucky Draw`  
+- Practiced `for-loop`, `while-loop`, `do-while loop`, `if-else`, `switch-case`, and menu-driven program logic  
+
+🔗 **Code Link:**  
+[Scenario Based Codebase](https://github.com/aryamishra01/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
