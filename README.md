@@ -164,3 +164,20 @@
 
 🔗 **Code Link:**  
 [Scenario Based Codebase](https://github.com/aryamishra01/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)  
+
+---
+
+### 📅 Day 13 – Core Java: Scenario-Based Problems & LeetCode  
+**(Date: 30-Dec-2025)**
+
+- Solved 5 real-world scenario-based Core Java problems using conditional statements, loops, switch-case, and arrays  
+- Implemented programs like Temperature Logger, Train Reservation Queue, Sandeep’s Fitness Challenge Tracker, Movie Ticket Booking App, and Rohan’s Library Reminder App  
+- Practiced if-else, for-loops, while-loops, switch-case, array handling, and user input handling  
+- Solved a few LeetCode problems to strengthen problem-solving and logical thinking skills, including IntersectionOfArrays, ThirdMaximumNumber, MaxConsecutiveOnes, MaxCandyTypes, and CanPlaceFlowers
+
+🔗 **Code Links:**  
+- [Scenario Based Codebase](https://github.com/aryamishra01/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)  
+- [LeetCode Array Practice](https://github.com/aryamishra01/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Array-Practice)  
+
+---
+
