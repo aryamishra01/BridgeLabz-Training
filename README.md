@@ -55,3 +55,23 @@
 
 🔗 **Code Link:**  
 👉 [Day 3 – this, static, final & instanceof](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/keywords/level1)
+
+---
+
+### 📅 Day 4 – Object-Oriented Design, Modeling & Relationships  
+**(Date: 30-Dec-2025)**
+
+- Learned the basics of **object-oriented design (OOD)** and object modeling  
+- Understood the difference between **classes and objects** and their memory allocation  
+- Studied how classes act as blueprints and objects represent real-world entities  
+- Implemented **association** between Course–Teacher and Course–Student  
+- Applied **aggregation** where a School manages multiple Course objects  
+- Practiced object interaction using **method calls and references**  
+- Built real-world models using Core Java  
+
+🔗 **Code Link:**  
+👉 [Day 4 – Object-Oriented Designing, Modeling & Relationships](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling)
+
+---
+
+
