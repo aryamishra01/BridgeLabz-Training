@@ -74,4 +74,24 @@
 
 ---
 
+### 📅 Day 5 – Inheritance  
+**(Date: 31-Dec-2025)**
+
+- Practiced core **inheritance concepts** to reuse and extend common behavior in Java  
+- Implemented **Single, Multilevel, and Hierarchical inheritance** using classes  
+- Understood why **multiple inheritance is not supported with classes** due to the *diamond problem*  
+- Implemented **hybrid inheritance using interfaces**, combining `extends` and `implements`  
+- Explored **method overriding** and **runtime polymorphism**  
+- Solved real-world, scenario-based problems such as:
+  - Animal Classification System  
+  - Employee Hierarchy  
+  - Vehicle Management  
+  - Banking Operations  
+  - School Role Structure  
+- Followed best practices like the is-a relationship,LSP, and avoiding deep inheritance hierarchies  
+
+🔗 **Code Link:**  
+👉 [Day 5 – Inheritance Practice Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+
+---
 
