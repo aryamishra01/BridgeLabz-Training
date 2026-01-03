@@ -80,6 +80,8 @@
 
 ---
 
+## Week 2: Core Java Fundamentals and OOPS Concepts
+
 ### 📅 Day 6 – Java Methods 
 **(Date: 22-Dec-2025)**
 
@@ -118,10 +120,11 @@
 
 ---
 
-## Week 2: Object Oriented Programming Fundamental 
+### 📅 Day 9 
 
-### 📅 Day 1 – Java OOPS Basics
 **(Date: 26-Dec-2025)**
+
+### Java OOPS Basics
 
 - Learned the basics of Object-Oriented Programming (OOP) and its advantages over Procedural Programming
 - Understood Class and Object concepts, object creation, and memory allocation
@@ -145,7 +148,7 @@
 
 ---
 
-### 📅 Day 2 – Java Constructors, Instance vs Class Variables & Access Modifiers  
+### 📅 Day 10 – Java Constructors, Instance vs Class Variables & Access Modifiers  
 **(Date: 27-Dec-2025)**
 
 - Learned how **constructors** initialize objects in Java  
@@ -174,8 +177,6 @@
 🔗 **Code Links:**  
 - [LeetCode String Practice](https://github.com/aryamishra01/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/String-Practice)
 
----
-
 ### Core Java: LeetCode Array & String Problems  
 **(Date: 28-Dec-2025)**
 
@@ -188,3 +189,4 @@
 - [String Practice](https://github.com/aryamishra01/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/String-Practice)
 
 ---
+
