@@ -118,6 +118,24 @@
 👉 [Day 6 – Encapsulation](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
 
 🔗 **Scenario-Based Programs:**  
-👉 [Oops Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com)
+👉 [Oops Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day1)
+
+---
+
+### 📘 Day 7 – OOPS Scenario-Based Programs  
+*Date:* 02-Jan-2026  
+
+## 🧩 Scenario-Based Implementations  
+- **Hospital Management System** – Patient records, billing, and operations  
+- **Vehicle Rental System** – Rental charges and availability handling  
+- **University Enrollment System** – Student registration and course management  
+- **E-Wallet System** – Balance management, transactions, and security  
+- **Smart Home Automation** – Controlling appliances through object interactions  
+
+- Focused on applying **core OOPS concepts** (Encapsulation, Inheritance, Polymorphism, Abstraction) in real-world scenarios  
+- Improved problem-solving skills by translating requirements into clean Java class designs  
+
+🔗 **Scenario-Based Code Link:**  
+👉 [OOPS Scenario Problems – Day 7](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day2)
 
 ---
