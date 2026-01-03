@@ -121,7 +121,6 @@
 ---
 
 ### 📅 Day 9 
-
 **(Date: 26-Dec-2025)**
 
 ### Java OOPS Basics
@@ -220,5 +219,32 @@
 
 🔗 **Code Link:**  
 [Scenario Based Codebase](https://github.com/aryamishra01/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)  
+
+---
+
+### 📅 Day 12 – Object-Oriented Design, Modeling & Relationships  
+**(Date: 30-Dec-2025)**
+
+- Learned the basics of **object-oriented design (OOD)** and object modeling  
+- Understood the difference between **classes and objects** and their memory allocation  
+- Studied how classes act as blueprints and objects represent real-world entities  
+- Implemented **association** between Course–Teacher and Course–Student  
+- Applied **aggregation** where a School manages multiple Course objects  
+- Practiced object interaction using **method calls and references**  
+- Built real-world models using Core Java  
+
+🔗 **Code Link:**  
+👉 [Day 4 – Object-Oriented Designing, Modeling & Relationships](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling)
+
+### Core Java: Scenario-Based Problems & LeetCode  
+
+- Solved 5 real-world scenario-based Core Java problems using conditional statements, loops, switch-case, and arrays  
+- Implemented programs like Temperature Logger, Train Reservation Queue, Sandeep’s Fitness Challenge Tracker, Movie Ticket Booking App, and Rohan’s Library Reminder App  
+- Practiced if-else, for-loops, while-loops, switch-case, array handling, and user input handling  
+- Solved a few LeetCode problems to strengthen problem-solving and logical thinking skills, including IntersectionOfArrays, ThirdMaximumNumber, MaxConsecutiveOnes, MaxCandyTypes, and CanPlaceFlowers
+
+🔗 **Code Links:**  
+- [Scenario Based Codebase](https://github.com/aryamishra01/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)  
+- [LeetCode Array Practice](https://github.com/aryamishra01/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Array-Practice)  
 
 ---
