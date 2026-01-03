@@ -95,3 +95,29 @@
 
 ---
 
+### 📅 Day 6 – Encapsulation  
+**(Date: 01-Jan-2026)**
+
+- Practiced **encapsulation** using private fields with getters and setters  
+- Applied **abstraction** with abstract classes and methods  
+- Used **inheritance** for code reuse and structure  
+- Implemented **polymorphism** through method overriding  
+- Designed **interfaces** to define multiple behaviors  
+- Followed **clean coding practices** for readable and maintainable code  
+- Solved real-world scenarios including:
+  - Employee Management  
+  - E-Commerce Discounts & Taxes  
+  - Vehicle Rental  
+  - Banking Operations  
+  - Library Management  
+  - Online Food Delivery  
+  - Hospital Management  
+  - Ride-Hailing Fare Calculation  
+
+🔗 **Code Link:**  
+👉 [Day 6 – Encapsulation](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
+
+🔗 **Scenario-Based Programs:**  
+👉 [Oops Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com)
+
+---
