@@ -105,3 +105,15 @@
 👉 [Day 7 – Java Strings Practice](https://github.com/aryamishra01/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings)
 
 ---
+
+### 📅 Day 8 – Extras: String Handling, Built-in Functions & Date/Time
+**(Date: 24-Dec-2025)**
+
+- Practiced string handling: common string functions, parameter passing, and return values  
+- Explored common built-in functions: `Random`, `Math`  
+- Managed date and time using Java built-in functions (`java.time` API, Java 8+) for scheduling and displa  
+
+🔗 **Code Link:**  
+👉 [Day 8 – Extras Practice](https://github.com/aryamishra01/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/EXTRAS)
+
+---
