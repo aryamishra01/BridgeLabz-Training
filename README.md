@@ -117,3 +117,30 @@
 👉 [Day 8 – Extras Practice](https://github.com/aryamishra01/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/EXTRAS)
 
 ---
+
+## Week 2: Object Oriented Programming Fundamental 
+
+### 📅 Day 1 – Java OOPS Basics
+**(Date: 26-Dec-2025)**
+
+- Learned the basics of Object-Oriented Programming (OOP) and its advantages over Procedural Programming
+- Understood Class and Object concepts, object creation, and memory allocation
+- Practiced using constructors, attributes, and methods with real-world examples (Student, Car, TravelDetails)
+- Compared Procedural Programming vs OOP in terms of scalability, reusability, and data security
+- Followed best practices for naming conventions and modular program structure
+
+🔗 **Code Link:**  
+👉 [Day 1 – Class and Object Basic Programs](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
+
+### Core Java: Scenario-Based Problems & LeetCode  
+
+- Solved 3 real-world scenario-based Core Java problems using conditional statements, loops, switch-case, and operators  
+- Implemented programs like Election Booth Manager, Metro Smart Card Fare Deduction, and Result Generator  
+- Practiced if-else, ternary operator, for-loops, switch-case, and user input handling  
+- Solved a few LeetCode problems to strengthen problem-solving and logical thinking skills
+
+🔗 **Code Links:**  
+- [Scenario Based Codebase](https://github.com/aryamishra01/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)  
+- [LeetCode Array Practice](https://github.com/aryamishra01/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Array-Practice)  
+
+---
