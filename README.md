@@ -175,3 +175,16 @@
 - [LeetCode String Practice](https://github.com/aryamishra01/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/String-Practice)
 
 ---
+
+### Core Java: LeetCode Array & String Problems  
+**(Date: 28-Dec-2025)**
+
+- Solved LeetCode problems on arrays and strings to further strengthen logical thinking and problem-solving using Java  
+- Practiced problems like `Plus One`, `Product Except Self`, `Roman To Integer`, `Valid Parentheses`, `Isomorphic Strings`, `Reverse String`, and `Reverse Vowels`  
+- Focused on two‑pointer technique, ASCII handling, in‑place modification, and conditional logic for string/array manipulation
+
+🔗 **Code Links:**  
+- [Array Practice](https://github.com/aryamishra01/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Array-Practice)  
+- [String Practice](https://github.com/aryamishra01/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/String-Practice)
+
+---
