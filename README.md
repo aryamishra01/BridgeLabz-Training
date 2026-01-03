@@ -248,3 +248,34 @@
 - [LeetCode Array Practice](https://github.com/aryamishra01/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Array-Practice)  
 
 ---
+
+### 📅 Day 13 – Inheritance  
+**(Date: 31-Dec-2025)**
+
+- Practiced core **inheritance concepts** to reuse and extend common behavior in Java  
+- Implemented **Single, Multilevel, and Hierarchical inheritance** using classes  
+- Understood why **multiple inheritance is not supported with classes** due to the *diamond problem*  
+- Implemented **hybrid inheritance using interfaces**, combining `extends` and `implements`  
+- Explored **method overriding** and **runtime polymorphism**  
+- Solved real-world, scenario-based problems such as:
+  - Animal Classification System  
+  - Employee Hierarchy  
+  - Vehicle Management  
+  - Banking Operations  
+  - School Role Structure  
+- Followed best practices like the is-a relationship,LSP, and avoiding deep inheritance hierarchies  
+
+🔗 **Code Link:**  
+👉 [Day 5 – Inheritance Practice Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+
+### Core Java: Scenario-Based Problems  
+**(Date: 31-Dec-2025)**
+
+- Solved 5 real-world scenario-based Core Java problems using loops, conditional statements, switch-case, and user input handling  
+- Implemented programs like `Digital Watch Simulation`, `Online Quiz Application`, `Currency Exchange Kiosk`, `Bus Route Distance Tracker`, and `Festival Lucky Draw`  
+- Practiced `for-loop`, `while-loop`, `do-while loop`, `if-else`, `switch-case`, and menu-driven program logic  
+
+🔗 **Code Link:**  
+[Scenario Based Codebase](https://github.com/aryamishra01/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
