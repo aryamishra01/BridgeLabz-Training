@@ -190,3 +190,35 @@
 
 ---
 
+## Week 3: OOPS Concepts and Data Structures
+
+### 📅 Day 11 – Java Keywords: this, static, final & instanceof  
+**(Date: 29-Dec-2025)**
+
+- Learned the use of **`this` keyword** to refer to current object  
+- Practiced **`static` keyword** for class-level variables and methods  
+- Understood **`final` keyword** for constants and preventing inheritance/overriding  
+- Explored **`instanceof` operator** to check object types at runtime  
+- Applied these keywords in **real-world mini programs**:  
+  - BankAccount  
+  - Book  
+  - Company  
+  - Library  
+  - Patient  
+  - Product  
+  - Student  
+  - Vehicle  
+
+🔗 **Code Link:**  
+👉 [Day 3 – this, static, final & instanceof](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/keywords/level1)
+
+### Scenario-Based Problems 
+
+- Solved 5 real-world scenario-based Core Java problems using loops, conditional statements, switch-case, and user input handling  
+- Implemented programs like `Parking Lot Gate System`, `Number Guessing Game`, `Shopkeeper’s Discount Dashboard`, `School Bus Attendance System`, and `Phone Recharge Simulator`  
+- Practiced `for-loop`, `for-each loop`, `while loop`, `do-while loop`, `if-else`, `switch-case`, and menu-driven program logic  
+
+🔗 **Code Link:**  
+[Scenario Based Codebase](https://github.com/aryamishra01/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)  
+
+---
