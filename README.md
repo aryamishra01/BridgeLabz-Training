@@ -125,7 +125,7 @@
 ### 📘 Day 7 – OOPS Scenario-Based Programs  
 *Date:* 02-Jan-2026  
 
-## 🧩 Scenario-Based Implementations  
+## Scenario-Based Implementations  
 - **Hospital Management System** – Patient records, billing, and operations  
 - **Vehicle Rental System** – Rental charges and availability handling  
 - **University Enrollment System** – Student registration and course management  
@@ -136,6 +136,40 @@
 - Improved problem-solving skills by translating requirements into clean Java class designs  
 
 🔗 **Scenario-Based Code Link:**  
-👉 [OOPS Scenario Problems – Day 7](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day2)
+👉 [OOPS Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day2)
+
+---
+
+### 📘 Day 8 – OOPS Scenario-Based Programs  
+*Date:* 03-Jan-2026  
+
+## Scenario-Based Implementations  
+**CabbyGo – Ride Hailing Application** – Vehicle and driver management, ride booking, and dynamic fare calculation  
+
+**MyBank – Customer Account Management System** – Account management (CurrentAccount, SavingsAccount), transaction operations, and banking logic  
+
+Focused on applying **core OOPS concepts** (Encapsulation, Inheritance, Polymorphism, Abstraction) in real-world scenarios  
+
+Improved problem-solving skills by translating requirements into clean Java class designs  
+
+🔗 **Scenario-Based Code Link:**  
+👉 [OOPS Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day3)
+
+---
+
+### 📘 Day 9 – OOPS Scenario-Based Programs  
+*Date:* 05-Jan-2026  
+
+## Scenario-Based Implementations  
+**CampusConnect – College Management Application** – Student registration, course enrollment, event management, and notifications  
+
+**SwiftCart – Online Grocery Shopping App** – Product management, cart operations, checkout process, and discount application  
+
+Focused on applying **core OOPS concepts** (Encapsulation, Inheritance, Polymorphism, Abstraction) in real-world scenarios  
+
+Improved problem-solving skills by translating requirements into clean Java class designs  
+
+🔗 **Scenario-Based Code Link:**  
+👉 [OOPS Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day4)
 
 ---
