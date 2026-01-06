@@ -12,6 +12,24 @@
 - Analyzed real-world use cases of linked lists such as memory management, scheduling, and navigation systems  
 
 🔗 **Code Link:**  
-👉 https://github.com/aryamishra01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linkedlist
+👉 [LinkedList Programs](https://github.com/aryamishra01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linkedlist)
+
+---
+
+### 📅 Day 2 – Stack, Queue & HashMap  
+**(Date: 03-Jan-2026)**
+
+- Learned the concept of **Stack** (LIFO – Last In First Out) and its core operations: push, pop, peek  
+- Implemented Stack using **arrays and Java Collections**  
+- Understood real-world applications of Stack such as function calls, undo/redo, and expression evaluation  
+- Learned the concept of **Queue** (FIFO – First In First Out) and operations: enqueue, dequeue, front  
+- Implemented Queue using **arrays and LinkedList**  
+- Studied applications of Queue in scheduling, buffering, and task management  
+- Explored **HashMap** and the concept of **Hashing**  
+- Understood **Hashing Function**, key-value pairs, collision handling, and performance benefits  
+- Analyzed average time complexity of HashMap operations as **O(1)**  
+
+🔗 **Code Link:**   
+👉 [Stack, Queue & HashMap Programs](https://github.com/aryamishra01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com)
 
 ---
