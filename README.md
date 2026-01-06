@@ -305,18 +305,29 @@
 🔗 **Scenario-Based Programs:**  
 👉 [Oops Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day1)
 
-### 📘 Day 15 – OOPS Scenario-Based Programs  
+### 📘 Day 15 – Data Structures – Linked Lists   
 *Date:* 02-Jan-2026  
 
-## 🧩 Scenario-Based Implementations  
+- Learned the fundamentals of **Data Structures** and their role in efficient programming  
+- Explored **types of Data Structures** with a focus on Linear structures  
+- Implemented **Singly Linked List** with node creation and one-directional traversal  
+- Implemented **Doubly Linked List** supporting forward and backward traversal  
+- Learned **Circular Linked List**, where the last node links back to the first node  
+- Analyzed real-world applications such as scheduling, memory management, and navigation systems  
+
+🔗 **Data Structures Code Link:**  
+👉 [Linked List Programs](https://github.com/aryamishra01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linkedlist)
+
+##  OOPS Scenario-Based Implementations  
 - **Hospital Management System** – Patient records, billing, and operations  
 - **Vehicle Rental System** – Rental charges and availability handling  
 - **University Enrollment System** – Student registration and course management  
 - **E-Wallet System** – Balance management, transactions, and security  
-- **Smart Home Automation** – Controlling appliances through object interactions  
+- **Smart Home Automation System** – Controlling appliances through object interactions  
 
-- Focused on applying **core OOPS concepts** (Encapsulation, Inheritance, Polymorphism, Abstraction) in real-world scenarios  
-- Improved problem-solving skills by translating requirements into clean Java class designs  
+- Applied **core OOPS concepts**: Encapsulation, Inheritance, Polymorphism, and Abstraction  
+- Strengthened object-oriented design by mapping real-world problems into Java classes  
+- Improved problem-solving and modular coding practices  
 
 🔗 **Scenario-Based Code Link:**  
 👉 [OOPS Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day2)
