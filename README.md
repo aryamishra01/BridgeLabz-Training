@@ -306,7 +306,7 @@
 👉 [Oops Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day1)
 
 ### 📘 Day 15 – Data Structures – Linked Lists   
-*Date:* 02-Jan-2026  
+**(Date: 02-Jan-2026)** 
 
 - Learned the fundamentals of **Data Structures** and their role in efficient programming  
 - Explored **types of Data Structures** with a focus on Linear structures  
@@ -331,5 +331,35 @@
 
 🔗 **Scenario-Based Code Link:**  
 👉 [OOPS Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day2)
+
+---
+
+### 📘 Day 16 – Data Structures – Stack, Queue & HashMap  
+**(Date: 03-Jan-2026)**
+
+- Learned the concept of **Stack** (LIFO – Last In First Out) and its core operations: push, pop, peek  
+- Implemented Stack using **arrays and Java Collections**  
+- Understood real-world applications of Stack such as function calls, undo/redo, and expression evaluation  
+- Learned the concept of **Queue** (FIFO – First In First Out) and operations: enqueue, dequeue, front  
+- Implemented Queue using **arrays and LinkedList**  
+- Studied applications of Queue in scheduling, buffering, and task management  
+- Explored **HashMap** and the concept of **Hashing**  
+- Understood **Hashing Function**, key-value pairs, collision handling, and performance benefits  
+- Analyzed average time complexity of HashMap operations as **O(1)**  
+
+🔗 **Code Link:**   
+👉 [Stack, Queue & HashMap Programs](https://github.com/aryamishra01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com)
+
+## OOPS Scenario-Based Implementations  
+**CabbyGo – Ride Hailing Application** – Vehicle and driver management, ride booking, and dynamic fare calculation  
+
+**MyBank – Customer Account Management System** – Account management (CurrentAccount, SavingsAccount), transaction operations, and banking logic  
+
+Focused on applying **core OOPS concepts** (Encapsulation, Inheritance, Polymorphism, Abstraction) in real-world scenarios  
+
+Improved problem-solving skills by translating requirements into clean Java class designs  
+
+🔗 **Scenario-Based Code Link:**  
+👉 [OOPS Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day3)
 
 ---
