@@ -154,3 +154,22 @@ Improved problem-solving skills by translating requirements into clean Java clas
 
 🔗 **Scenario-Based Code Link:**  
 👉 [OOPS Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day3)
+
+---
+
+### 📘 Day 9 – OOPS Scenario-Based Programs  
+*Date:* 05-Jan-2026  
+
+## Scenario-Based Implementations  
+**CampusConnect – College Management Application** – Student registration, course enrollment, event management, and notifications  
+
+**SwiftCart – Online Grocery Shopping App** – Product management, cart operations, checkout process, and discount application  
+
+Focused on applying **core OOPS concepts** (Encapsulation, Inheritance, Polymorphism, Abstraction) in real-world scenarios  
+
+Improved problem-solving skills by translating requirements into clean Java class designs  
+
+🔗 **Scenario-Based Code Link:**  
+👉 [OOPS Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day4)
+
+---
