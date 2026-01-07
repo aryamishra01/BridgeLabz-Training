@@ -363,3 +363,35 @@ Improved problem-solving skills by translating requirements into clean Java clas
 👉 [OOPS Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day3)
 
 ---
+
+## Week 4: Sorting, Searching Algorithms and Oops-based Scenario Problems Practice 
+
+### 📘 Day 17 – Data Structures - Sorting Algorithms  
+**(Date: 05-Jan-2026)**
+
+- Learned the fundamentals of **sorting algorithms** and their importance in data organization  
+- Implemented **Bubble Sort** to understand basic comparison-based sorting  
+- Studied **Selection Sort** by repeatedly selecting the minimum element  
+- Implemented **Insertion Sort** for building a sorted array incrementally  
+- Learned **Counting Sort**, a non-comparison-based sorting algorithm for limited integer ranges  
+- Implemented **Merge Sort** using the divide-and-conquer approach  
+- Studied **Quick Sort** with pivot-based partitioning for efficient sorting  
+- Implemented **Heap Sort** using a binary heap data structure  
+- Understood use cases and performance trade-offs of each sorting algorithm  
+
+🔗 **Code Link:**  
+👉 [Sorting Algorithms Programs](https://github.com/aryamishra01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sorting)
+
+## Scenario-Based Implementations  
+**CampusConnect – College Management Application** – Student registration, course enrollment, event management, and notifications  
+
+**SwiftCart – Online Grocery Shopping App** – Product management, cart operations, checkout process, and discount application  
+
+Focused on applying **core OOPS concepts** (Encapsulation, Inheritance, Polymorphism, Abstraction) in real-world scenarios  
+
+Improved problem-solving skills by translating requirements into clean Java class designs  
+
+🔗 **Scenario-Based Code Link:**  
+👉 [OOPS Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day4)
+
+---
