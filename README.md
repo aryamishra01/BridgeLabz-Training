@@ -48,6 +48,6 @@
 - Understood use cases and performance trade-offs of each sorting algorithm  
 
 🔗 **Code Link:**  
-👉 https://github.com/aryamishra01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sorting
+👉 [Sorting Algorithms Programs](https://github.com/aryamishra01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sorting)
 
 ---
