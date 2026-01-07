@@ -173,3 +173,22 @@ Improved problem-solving skills by translating requirements into clean Java clas
 👉 [OOPS Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day4)
 
 ---
+
+### 📘 Day 10 – OOPS Scenario-Based Programs  
+*Date:* 06-Jan-2026  
+
+## Scenario-Based Implementations  
+**FitTrack – Fitness Tracking System** – User fitness tracking and calorie management  
+
+**EduMentor – Online Learning Platform** – Course, mentor, and student management  
+
+**EventEase – Event Management System** – Event creation and participant registration  
+
+**PetPal – Virtual Pet Care App** – Virtual pet adoption and interaction management  
+
+Focused on applying **core OOPS concepts** (Encapsulation, Inheritance, Polymorphism, Abstraction) in real-world scenarios  
+
+Improved problem-solving skills by translating requirements into clean Java class designs  
+
+🔗 **Scenario-Based Code Link:**  
+👉 [OOPS Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day5)
