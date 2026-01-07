@@ -33,3 +33,21 @@
 👉 [Stack, Queue & HashMap Programs](https://github.com/aryamishra01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com)
 
 ---
+
+### 📅 Day 3 – Sorting Algorithms  
+**(Date: 05-Jan-2026)**
+
+- Learned the fundamentals of **sorting algorithms** and their importance in data organization  
+- Implemented **Bubble Sort** to understand basic comparison-based sorting  
+- Studied **Selection Sort** by repeatedly selecting the minimum element  
+- Implemented **Insertion Sort** for building a sorted array incrementally  
+- Learned **Counting Sort**, a non-comparison-based sorting algorithm for limited integer ranges  
+- Implemented **Merge Sort** using the divide-and-conquer approach  
+- Studied **Quick Sort** with pivot-based partitioning for efficient sorting  
+- Implemented **Heap Sort** using a binary heap data structure  
+- Understood use cases and performance trade-offs of each sorting algorithm  
+
+🔗 **Code Link:**  
+👉 [Sorting Algorithms Programs](https://github.com/aryamishra01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sorting)
+
+---
