@@ -113,3 +113,21 @@
 👉 [Challenge Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/challengeproblems)
 
 ---
+
+### 📅 Day 5 – Runtime Analysis & Big-O Notation 
+**(Date: 06-Jan-2026)**
+
+- Learned the fundamentals of **runtime analysis** to evaluate program efficiency  
+- Understood **time complexity (Big-O notation)** and its role in measuring scalability  
+- Implemented **DataStructureSearchComparison.java** to compare search performance across data structures  
+- Analyzed **FibonacciPerformanceComparison.java** by comparing recursive and iterative approaches  
+- Implemented **FileReadingPerformance.java** to measure execution time of different file reading techniques  
+- Studied **SearchPerformanceComparison.java** to analyze Linear Search vs Binary Search performance  
+- Implemented **SortingPerformanceComparison.java** to compare execution time of multiple sorting algorithms  
+- Analyzed **StringConcatenationPerformance.java** to compare String, StringBuilder, and StringBuffer efficiency  
+- Understood practical **performance trade-offs** based on execution time and input size  
+
+🔗 **Code Link:**  
+👉 [Runtime Analysis Programs](https://github.com/aryamishra01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/runtimeanalysis)
+
+---
