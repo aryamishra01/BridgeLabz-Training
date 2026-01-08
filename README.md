@@ -192,3 +192,25 @@ Improved problem-solving skills by translating requirements into clean Java clas
 
 🔗 **Scenario-Based Code Link:**  
 👉 [OOPS Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day5)
+
+---
+
+### 📘 Day 11 – OOPS Scenario-Based Programs  
+*Date:* 07-Jan-2026  
+
+## Scenario-Based Implementations  
+
+**BookBazar – Online Book Store System** – Book browsing, purchasing, and order management  
+
+**LoanBuddy – Loan Management System** – Loan application, eligibility checking, and repayment tracking  
+
+**ParkEase – Smart Parking Management System** – Parking slot allocation, vehicle tracking, and billing  
+
+Focused on applying **core OOPS concepts** (Encapsulation, Inheritance, Polymorphism, Abstraction) in real-world scenarios  
+
+Enhanced understanding of system design by modeling real-life applications using clean and modular **Java class structures**  
+
+🔗 **Scenario-Based Code Link:**  
+👉 [OOPS Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day6)
+
+---
