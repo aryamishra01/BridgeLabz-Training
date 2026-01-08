@@ -395,3 +395,30 @@ Improved problem-solving skills by translating requirements into clean Java clas
 👉 [OOPS Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day4)
 
 ---
+
+### 📘 Day 18 – Practiced StringBuffer, StringBuilder, File Handling & Searching Algorithms and Oops-based Scenario problems
+**(Date: 06-Jan-2026)**
+
+- Learned the difference between **StringBuilder** and **StringBuffer**, and practiced their usage for mutable strings  
+- Implemented programs using **FileReader** to read files and **InputStreamReader** to read user input from the console  
+- Solved problems using **Linear Search** to find elements or the first missing positive integer in a list  
+- Applied **Binary Search** to efficiently find the index of a target element in a sorted array  
+- Understood time and space complexities of linear vs binary search approaches  
+
+🔗 **Code Link:**  
+👉 [Solved Programs](https://github.com/aryamishra01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com)
+
+## Scenario-Based Implementations  
+**FitTrack – Fitness Tracking System** – User fitness tracking and calorie management  
+**EduMentor – Online Learning Platform** – Course, mentor, and student management  
+
+**EventEase – Event Management System** – Event creation and participant registration  
+
+**PetPal – Virtual Pet Care App** – Virtual pet adoption and interaction management  
+
+Focused on applying **core OOPS concepts** (Encapsulation, Inheritance, Polymorphism, Abstraction) in real-world scenarios  
+
+Improved problem-solving skills by translating requirements into clean Java class designs  
+
+🔗 **Scenario-Based Code Link:**  
+👉 [OOPS Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day5)
