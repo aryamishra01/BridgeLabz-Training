@@ -452,3 +452,25 @@ Enhanced understanding of system design by modeling real-life applications using
 
 🔗 **Scenario-Based Code Link:**  
 👉 [OOPS Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day6)
+
+---
+
+### 📘 Day 20 – OOPS Scenario-Based Programs  
+**(Date: 07-Jan-2026)** 
+
+## Scenario-Based Implementations  
+
+**MediStore – Medical Store Management System** – Managing different types of medicines and their selling behavior using OOPS concepts  
+
+**TourMate – Travel & Trip Management System** – Trip planning, booking, accommodation, and activity management  
+
+Focused on applying **core OOPS concepts**  
+(Encapsulation, Inheritance, Polymorphism, Abstraction)  
+through real-world Java applications  
+
+Enhanced understanding of **object-oriented design** by implementing clean and modular class structures  
+
+🔗 **Scenario-Based Code Link:**  
+👉 [OOPS Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day7)
+
+---
