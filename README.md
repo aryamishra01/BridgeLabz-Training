@@ -422,3 +422,33 @@ Improved problem-solving skills by translating requirements into clean Java clas
 
 🔗 **Scenario-Based Code Link:**  
 👉 [OOPS Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day5)
+
+---
+
+### 📘 Day 19 - Runtime Analysis & Big-O Notation and Oops-based Scenario problems
+**(Date: 07-Jan-2026)**
+
+- Learned the fundamentals of **runtime analysis** to evaluate program efficiency  
+- Understood **time complexity (Big-O notation)** and its role in measuring scalability  
+- Implemented **DataStructureSearchComparison.java** to compare search performance across data structures  
+- Analyzed **FibonacciPerformanceComparison.java** by comparing recursive and iterative approaches  
+- Implemented **FileReadingPerformance.java** to measure execution time of different file reading techniques  
+- Studied **SearchPerformanceComparison.java** to analyze Linear Search vs Binary Search performance  
+- Implemented **SortingPerformanceComparison.java** to compare execution time of multiple sorting algorithms  
+- Analyzed **StringConcatenationPerformance.java** to compare String, StringBuilder, and StringBuffer efficiency  
+- Understood practical **performance trade-offs** based on execution time and input size  
+
+🔗 **Code Link:**  
+👉 [Runtime Analysis Programs](https://github.com/aryamishra01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/runtimeanalysis)
+
+## Scenario-Based Implementations  
+**BookBazar – Online Book Store System** – Book browsing, purchasing, and order management  
+**LoanBuddy – Loan Management System** – Loan application, eligibility checking, and repayment tracking  
+**ParkEase – Smart Parking Management System** – Parking slot allocation, vehicle tracking, and billing  
+
+Focused on applying **core OOPS concepts** (Encapsulation, Inheritance, Polymorphism, Abstraction) in real-world scenarios  
+
+Enhanced understanding of system design by modeling real-life applications using clean and modular **Java class structures**  
+
+🔗 **Scenario-Based Code Link:**  
+👉 [OOPS Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day6)
