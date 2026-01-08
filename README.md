@@ -51,3 +51,65 @@
 👉 [Sorting Algorithms Programs](https://github.com/aryamishra01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sorting)
 
 ---
+
+### 📅 Day 4 – Strings, File Handling & Searching Algorithms  
+**(Date: 06-Jan-2026)**
+
+#### 1️⃣ StringBuilder
+- Explored **StringBuilder** for mutable strings.  
+- Practiced operations like **append**, **insert**, **delete**, and **reverse** for efficient string manipulation.  
+- Example: Reversing a string using `StringBuilder.reverse()` method.
+
+🔗 **Code Link:**  
+👉 [StringBuilder Programs](https://github.com/aryamishra01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/stringbuilder)
+
+#### 2️⃣ StringBuffer
+- Studied **StringBuffer**, which is similar to StringBuilder but **thread-safe**.  
+- Implemented examples to understand synchronization overhead and usage scenarios.
+
+🔗 **Code Link:**  
+👉 [StringBuffer Programs](https://github.com/aryamishra01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/stringbuffer)
+
+#### 3️⃣ FileReader
+- Learned to use **FileReader** to read data from files character by character.  
+- Handled file-related exceptions to ensure robust file operations.
+
+🔗 **Code Link:**  
+👉 [FileReader Programs](https://github.com/aryamishra01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/filereader)
+
+#### 4️⃣ InputStreamReader
+- Implemented **InputStreamReader** along with **BufferedReader** to read **user input from the console** efficiently.  
+- Example: Reading multiple lines until the user types "exit".
+  
+🔗 **Code Link:**  
+👉 [InputStreamReader Programs](https://githubgithub.com/aryamishra01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/inputstreamreader)
+
+#### 5️⃣ Linear Search
+- Solved problems using **Linear Search**, including:  
+- Finding an element in an unsorted list  
+- Finding the **first missing positive integer**  
+- Time complexity: **O(n)**, suitable for small or unsorted datasets.
+
+🔗 **Code Link:**  
+👉 [LinearSearch Programs](https://github.com/aryamishra01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linearsearch)
+
+#### 6️⃣ Binary Search
+- Applied **Binary Search** to efficiently locate the index of a target element in **sorted arrays**.  
+- Understood **divide-and-conquer logic** and midpoint calculations.  
+- Time complexity: **O(log n)**, much faster than linear search for large datasets.
+  
+
+🔗 **Code Link:**  
+👉 [BinarySearch Programs](https://github.com/aryamishra01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/binarysearch)
+
+#### 7️⃣ Challenge Problems
+- Solved combined problems to practice **String operations and searching algorithms**:
+
+1. **LinearAndBinarySearchProgram.java** – Finds the first missing positive integer using Linear Search and locates a target element index using Binary Search.  
+2. **StringConcatComparison.java** – Compares the performance of **String**, **StringBuilder**, and **StringBuffer** during repeated concatenation operations.  
+3. **WordCountComparison.java** – Reads a file and compares different approaches to count words, demonstrating efficient use of **FileReader** and **BufferedReader**.
+
+🔗 **Code Link:**  
+👉 [Challenge Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/challengeproblems)
+
+---
