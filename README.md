@@ -474,3 +474,29 @@ Enhanced understanding of **object-oriented design** by implementing clean and m
 👉 [OOPS Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day7)
 
 ---
+
+### 📘 Day 21 – OOPS Scenario-Based Programs  
+**(Date: 09-Jan-2026)** 
+
+## Scenario-Based Implementations  
+
+**Artify – Digital Art Marketplace** –  
+A platform where artists sell digital artworks and users can purchase or license them.  
+Implements artwork types (DigitalArt, PrintArt), purchasing behavior, user wallet management, and licensing using OOPS principles.
+
+**FoodLoop – Restaurant Ordering System** –  
+An application for ordering food items from restaurants with veg and non-veg categories.  
+Demonstrates order placement, item availability, price calculation, and interface-driven order operations.
+
+**SkillForge – Online Learning & Certification Platform** –  
+A learning management system where students enroll in courses and instructors manage content and certifications.  
+Focuses on user roles, course management, certification logic, and abstraction via interfaces.
+
+Focused on applying **core OOPS concepts**  
+(Encapsulation, Inheritance, Polymorphism, Abstraction)  
+through real-world Java applications  
+
+Enhanced understanding of **object-oriented design** by implementing clean and modular class structures  
+
+🔗 **Scenario-Based Code Link:**  
+👉 [OOPS Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day8)
