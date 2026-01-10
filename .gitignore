@@ -1,0 +1,21 @@
+# ===============================
+# Eclipse / IDE files
+# ===============================
+.metadata/
+.settings/
+.project
+.classpath
+
+# ===============================
+# Java build output
+# ===============================
+bin/
+target/
+module-info.java
+
+# ===============================
+# Logs & OS files
+# ===============================
+*.log
+.DS_Store
+Thumbs.db
