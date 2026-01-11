@@ -500,3 +500,26 @@ Enhanced understanding of **object-oriented design** by implementing clean and m
 
 🔗 **Scenario-Based Code Link:**  
 👉 [OOPS Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day8)
+
+---
+
+### 📘 Day 22 – DSA Scenario-Based Problems  
+**(Date: 10-Jan-2026)** 
+
+## Scenario-Based Implementations  
+- **AmbulanceRoute – Emergency Patient Navigation**  
+  Circular linked list simulation for navigating hospital units and redirecting patients.
+
+- **BookShelf – Library Book Management**  
+  Linked list–based system to add, search, and remove books dynamically.
+
+- **BrowserBuddy – Tab & History Management**  
+  Stack and linked list implementation to manage browser tabs and browsing history.
+
+- Focused on applying **DSA concepts** (Linked List, Circular Linked List, Stack) in real-world scenarios  
+- Enhanced logical thinking and data-structure–based problem solving using Java  
+
+🔗 **DSA Scenario Code Link:**  
+👉 [DSA Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioProblems/src/com/day1)
+
+---
