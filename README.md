@@ -152,3 +152,33 @@
 👉 [DSA Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioProblems/src/com/day1)
 
 ---
+
+### 📘 Day 7 – DSA Scenario-Based Problems  
+**(Date: 12-Jan-2026)**
+
+## Scenario-Based Implementations  
+
+- **BookShelf – Library Organizer**  
+  Manage books dynamically using linked list.  
+  **Files:** `Book.java`, `Library.java`, `BookShelfMain.java`
+
+- **CallCenter – Customer Support Management**  
+  Queue-based customer handling system.  
+  **Files:** `Customer.java`, `CustomerManagement.java`, `CustomerServiceMain.java`
+
+- **TextEditor – Undo/Redo Simulation**  
+  Stack simulation for text actions.  
+  **Files:** `Action.java`, `TextEditor.java`, `TextEditorMain.java`
+
+- **TrafficManager – Roundabout Traffic Flow**  
+  Circular linked list simulation for vehicles.  
+  **Files:** `Vehicle.java`, `Roundabout.java`, `TrafficManagerMain.java`
+
+- **TrainCompanion – Route & Compartment Management**  
+  Linked list–based train system.  
+  **Files:** `Compartment.java`, `TrainRoute.java`, `TrainCompanionMain.java`
+
+🔗 **Code:**  
+👉 [DSA Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioProblems/src/com/day2)
+
+---
