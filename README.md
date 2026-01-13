@@ -262,3 +262,37 @@ Enhanced understanding of **object-oriented design** by implementing clean and m
 👉 [OOPS Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day8)
 
 ---
+
+### 📘 Day 14 – OOPS Scenario-Based Programs  
+*Date:* 09-Jan-2026  
+
+## Scenario-Based Implementations  
+
+### **BudgetWise – Budget & Expense Tracker**  
+Manages monthly and annual budgets with transaction tracking and analysis.
+
+**Files:**  
+`Budget.java`, `MonthlyBudget.java`, `AnnualBudget.java`, `Transaction.java`,  
+`IAnalyzable.java`, `BudgetWiseApp.java`
+
+### **GameBox – Digital Game Library**  
+Allows users to download and manage arcade and strategy games.
+
+**Files:**  
+`Game.java`, `ArcadeGame.java`, `StrategyGame.java`,  
+`User.java`, `IDownloadable.java`, `GameBoxApp.java`
+
+### **HomeNest – Smart Home Manager**  
+Controls smart devices like lights, cameras, locks, and thermostats.
+
+**Files:**  
+`Device.java`, `Light.java`, `Camera.java`, `Lock.java`, `Thermostat.java`,  
+`IControllable.java`, `HomeNestApp.java`
+
+### 🔑 Key Focus  
+- Core OOPS: Encapsulation, Inheritance, Polymorphism, Abstraction  
+- Clean, modular Java design  
+
+🔗 **Code Link:**  
+👉 [OOPS Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day9)
+
