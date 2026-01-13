@@ -182,3 +182,32 @@
 👉 [DSA Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioProblems/src/com/day2)
 
 ---
+
+### 📘 Day 8 – DSA Scenario-Based Problems  
+**(Date: 13-Jan-2026)** 
+
+## Scenario-Based Implementations  
+- **ExamProctor – Online Exam Management**  
+  Class-based system to manage exams, students, and proctoring functionality.  
+  - `Exam.java` – Exam details and configurations  
+  - `ExamProctor.java` – Logic to assign exams and monitor students  
+  - `ExamProctorMain.java` – Main driver to simulate exam sessions  
+
+- **ParcelTracker – Shipment Tracking System**  
+  Track parcels across stages using linked list nodes.  
+  - `ParcelTracker.java` – Core logic for parcel tracking  
+  - `ParcelTrackerMain.java` – Main driver to simulate parcel flow  
+  - `StageNode.java` – Node representing each stage of shipment  
+
+- **SmartCheckout – Supermarket Billing Queue**  
+  Queue and HashMap–based system to manage customers, stock, and billing.  
+  - `Customer.java` – Customer details and cart items  
+  - `Inventory.java` – Items, prices, and stock management  
+  - `SmartCheckoutMain.java` – Main driver for checkout simulation  
+
+- Focused on applying **DSA and OOP concepts** (Queue, HashMap, Linked List) in practical scenarios  
+- Enhanced understanding of **real-world problem solving** using Java  
+
+🔗 **DSA Scenario Code Link:**  
+👉 [DSA Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day3)
+
