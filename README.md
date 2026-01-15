@@ -586,3 +586,61 @@ Controls smart devices like lights, cameras, locks, and thermostats.
 👉 [OOPS Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day9)
 
 ---
+
+### 📘 Day 24 – DSA Scenario-Based Problems  
+**(Date: 13-Jan-2026)**
+
+## Scenario-Based Implementations  
+
+- **ExamProctor – Online Exam Management**  
+  Class-based system to manage exams, students, and proctoring functionality.  
+  - `Exam.java` – Exam details and configurations  
+  - `ExamProctor.java` – Logic to assign exams and monitor students  
+  - `ExamProctorMain.java` – Main driver to simulate exam sessions  
+
+- **ParcelTracker – Shipment Tracking System**  
+  Track parcels across stages using linked list nodes.  
+  - `ParcelTracker.java` – Core logic for parcel tracking  
+  - `ParcelTrackerMain.java` – Main driver to simulate parcel flow  
+  - `StageNode.java` – Node representing each stage of shipment  
+
+- **SmartCheckout – Supermarket Billing Queue**  
+  Queue and HashMap–based system to manage customers, stock, and billing.  
+  - `Customer.java` – Customer details and cart items  
+  - `Inventory.java` – Items, prices, and stock management  
+  - `SmartCheckoutMain.java` – Main driver for checkout simulation  
+
+- Focused on applying **DSA and OOP concepts** (Queue, HashMap, Linked List) in practical scenarios  
+- Enhanced understanding of **real-world problem solving** using Java  
+
+🔗 **DSA Scenario Code Link:**  
+👉 [DSA Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day3)
+
+
+## OOPS Scenario-Based Implementations  
+
+## BudgetWise – Budget & Expense Tracker
+Tracks monthly and annual expenses using transactions.
+
+**Files:**  
+`Budget.java`, `MonthlyBudget.java`, `AnnualBudget.java`, `Transaction.java`,  
+`IAnalyzable.java`, `BudgetWiseApp.java`
+
+## GameBox – Digital Game Library
+Downloads and plays arcade and strategy games.
+
+**Files:**  
+`Game.java`, `ArcadeGame.java`, `StrategyGame.java`,  
+`User.java`, `IDownloadable.java`, `GameBoxApp.java`
+
+## HomeNest – Smart Home Manager
+Controls smart devices in a home system.
+
+**Files:**  
+`Device.java`, `Light.java`, `Camera.java`, `Lock.java`, `Thermostat.java`,  
+`IControllable.java`, `HomeNestApp.java`
+
+🔗 **Code Link:**  
+👉 [OOPS Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day10)
+
+---
