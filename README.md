@@ -668,5 +668,25 @@ Focused on writing **type-safe and reusable code** while avoiding runtime castin
 
 ---
 
+### 📘 Day 26 – Sorting Problems and Collections Introduction 
+**(Date: 16-Jan-2026)**
 
+Practised multiple sorting-based real-world problems, including:  
+- RoboWarehouse – Shelf Loading Robot (Insertion Sort)  
+- CinemaHouse – Movie Time Sorting (Bubble Sort)  
+- CropMonitor – Sensor Data Ordering (Quick Sort)  
+
+Gained strong understanding of the **Java Collections Framework**, including:  
+- Collection hierarchy and framework architecture  
+- Core interfaces: List, Set, Queue, Deque, and Map  
+- Choosing suitable collection implementations based on performance and behavior  
+
+Applied best practices for selecting collections in real-world use cases.
+
+**Code Links:**  
+- [Sorting Programs](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day5)  
+
+- [Collections Programs](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src)
+
+---
 
