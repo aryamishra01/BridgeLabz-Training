@@ -662,11 +662,9 @@ Learned **Java Generics fundamentals**, including:
 Focused on writing **type-safe and reusable code** while avoiding runtime casting errors.
 
 **Code Links:**  
-- [Sorting Programs]
-  (https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day4)  
+- [Sorting Programs](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day4)  
 
-- [Generics Programs]  
-  (https://github.com/aryamishra01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/generics)
+- [Generics Programs](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/generics)
 
 ---
 
