@@ -690,3 +690,32 @@ Applied best practices for selecting collections in real-world use cases.
 
 ---
 
+### 📘 Day 27 – Sorting and OOPS Programs  
+**(Date: 17-Jan-2026)**
+
+Practised additional sorting-based real-world problems, including:  
+- IceCreamRush – Sorting Flavours by Popularity (Bubble Sort)  
+- SmartLibrary – Auto-Sort Borrowed Books (Insertion Sort)  
+- ArtExpo – Sort Artists by Registration Time (Insertion Sort)  
+- FleetManager – Vehicle Maintenance Scheduler (Merge Sort)  
+
+Strengthened understanding of sorting strategies by focusing on:  
+- Small datasets and simple logic  
+- Incremental insertions in nearly sorted lists  
+- Merging pre-sorted collections efficiently  
+
+Built two Java OOPS-based applications:  
+- **GeoMeasure Solutions – Line Comparison System**  
+- **Bag-n-Ball Organiser – Toy Storage Management System**  
+
+Implemented real-world logic such as:  
+- Coordinate-based line length comparison  
+- Capacity-controlled object storage  
+- Bag-wise item tracking and management  
+
+**Code Links:**  
+- [Sorting Programs](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day6)  
+
+- [OOPS Programs](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day11)
+
+---
