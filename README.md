@@ -213,7 +213,7 @@
 
 ---
 
-### 📘 Day 4 – Sorting Algorithms with Real-Life Scenarios  
+### 📘 Day 9 – Sorting Algorithms with Real-Life Scenarios  
 **(Date: 15-Jan-2026)**
 
 ## Scenario-Based Implementations  
@@ -258,3 +258,42 @@
 
 🔗 **DSA Scenario Code Link:**  
 👉 [Sorting Scenarios](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day4)
+
+---
+
+### 📘 Day 10 – Sorting Algorithms with Practical Systems  
+**(Date: 16-Jan-2026)**
+
+## Scenario-Based Implementations  
+
+- **CinemaHouse – Movie Time Sorting (Bubble Sort)**  
+  Sorts daily movie show timings using Bubble Sort since the dataset is small and manually updated.  
+  - `Movie.java` – Stores movie name and show time  
+  - `CinemaHouse.java` – Manages movie schedule list  
+  - `CinemaHouseUsingBubbleSort.java` – Bubble Sort logic to sort show timings  
+
+- **CropMonitor – Sensor Data Analyzer (Quick Sort)**  
+  Sorts crop sensor data like temperature and moisture levels using Quick Sort for faster analysis.  
+  - `SensorData.java` – Represents real-time crop sensor readings  
+  - `CropMonitor.java` – Handles sensor data collection  
+  - `CropMonitorUsingQuickSort.java` – Quick Sort implementation for sensor data sorting  
+
+- **RoboWarehouse – Package Sorting System (Insertion Sort)**  
+  Dynamically inserts and sorts packages by weight/ID as they arrive in the warehouse.  
+  - `Package.java` – Package details such as ID and weight  
+  - `RoboWarehouse.java` – Manages incoming packages  
+  - `RoboWarehouseUsingInsertionSort.java` – Insertion Sort for real-time package ordering  
+
+## 🔍 Key Concepts Practiced  
+- Bubble Sort for small datasets  
+- Quick Sort for large and unsorted data  
+- Insertion Sort for nearly sorted data  
+- Choosing optimal algorithms based on use case  
+
+## 🎯 Learning Outcomes  
+- Applied sorting techniques to real-world inspired systems  
+- Improved understanding of algorithm selection  
+- Strengthened Java class design with DSA logic  
+
+🔗 **DSA Scenario Code Link:**  
+👉 [Day 5 Sorting Scenarios](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day5)
