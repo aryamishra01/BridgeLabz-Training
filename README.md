@@ -325,6 +325,39 @@ Controls smart devices in a home system.
 🔗 **Code Link:**  
 👉 [OOPS Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day10)
 
+---
+
+### 📘 Day 16 – OOPS Interface & Inheritance Scenarios  
+*Date:* 13-Jan-2026  
+
+## BirdSanctuary – Bird Behavior Simulation System  
+Models different bird types and their abilities using interfaces and inheritance.
+
+**Files:**  
+`Bird.java`, `Duck.java`, `Eagle.java`, `Kiwi.java`, `Penguin.java`,  
+`Flyable.java`, `Swimmable.java`, `DeveloperInfo.java`, `BirdSanctuaryApp.java`
+
+## PayXPress – Utility Bill Payment System  
+Processes different types of bills using a common payment interface.
+
+**Files:**  
+`Bill.java`, `ElectricityBill.java`, `WaterBill.java`, `InternetBill.java`,  
+`IPayable.java`, `PayXPressApp.java`
+
+### 🔍 Concepts Practiced  
+- Interfaces (`Flyable`, `Swimmable`, `IPayable`)  
+- Method overriding  
+- Runtime polymorphism  
+- IS-A relationship (Inheritance)  
+- Loose coupling using interfaces  
+
+### 🎯 Learning Outcomes  
+- Designed flexible systems using interfaces  
+- Applied polymorphism for different implementations  
+- Improved OOP design thinking with real-world examples  
+
+🔗 **Code Link:**  
+👉 [OOPS Scenario Problems – Day 10](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day10)
 
 
 
