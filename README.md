@@ -296,4 +296,51 @@
 - Strengthened Java class design with DSA logic  
 
 🔗 **DSA Scenario Code Link:**  
-👉 [Day 5 Sorting Scenarios](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day5)
+👉 [Sorting Scenarios](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day5)
+
+---
+
+### 📘 Day 11 – Sorting Algorithms in Management Systems  
+**(Date: 17-Jan-2026)**
+
+## Scenario-Based Implementations  
+
+- **ArtExpo – Artwork Arrangement System (Insertion Sort)**  
+  Maintains a sorted list of artists and artworks as new entries are added for exhibition.  
+  - `Artist.java` – Stores artist details and artwork info  
+  - `ArtExpo.java` – Manages exhibition entries  
+  - `ArtExpoUsingInsertionSort.java` – Insertion Sort for arranging artworks  
+
+- **FleetManager – Vehicle Dispatch Optimizer (Merge Sort)**  
+  Sorts vehicles based on capacity or availability for efficient fleet dispatching.  
+  - `Vehicle.java` – Vehicle details such as number, capacity, and status  
+  - `FleetManager.java` – Handles fleet operations  
+  - `FleetManagerUsingMergeSort.java` – Merge Sort for large vehicle datasets  
+
+- **IceCreamRush – Flavor Popularity Sorting (Bubble Sort)**  
+  Sorts ice cream flavors based on sales or demand using Bubble Sort for small daily datasets.  
+  - `Flavor.java` – Flavor name and sales count  
+  - `IceCreamRush.java` – Manages daily flavor sales  
+  - `IceCreamRushUsingBubbleSort.java` – Bubble Sort logic for popularity sorting  
+
+- **SmartLibrary – Auto-Sort Borrowed Books (Insertion Sort)**  
+  Keeps borrowed books sorted alphabetically as new books are issued.  
+  - `Book.java` – Book title, author, and ID  
+  - `SmartLibrary.java` – Manages borrowed book list  
+  - `SmartLibraryUsingInsertionSort.java` – Insertion Sort for maintaining sorted order  
+
+## 🔍 Key Concepts Practiced  
+- Insertion Sort for dynamic data insertion  
+- Merge Sort for large structured datasets  
+- Bubble Sort for small, frequently updated lists  
+- Real-world system modeling using Java classes  
+
+## 🎯 Learning Outcomes  
+- Learned to map business problems to suitable sorting algorithms  
+- Improved efficiency by choosing correct sorting strategies  
+- Strengthened OOP + DSA integration in Java  
+
+🔗 **DSA Scenario Code Link:**  
+👉 [Sorting Scenarios](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day6)
+
+---
