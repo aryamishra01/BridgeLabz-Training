@@ -524,8 +524,6 @@ Enhanced understanding of **object-oriented design** by implementing clean and m
 
 ---
 
-## Week 5: Data Structures - Tree and Graph and Scenario-based Problems Practice
-
 ### 📘 Day 23 – DSA Scenario-Based Problems  
 **(Date: 12-Jan-2026)**
 
@@ -644,3 +642,33 @@ Controls smart devices in a home system.
 👉 [OOPS Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day10)
 
 ---
+
+## 📅 Week 4 – Java Collections and Streams
+
+### 📘 Day 25 – Sorting Problems and Generics Practice  
+**(Date: 15-Jan-2026)**
+
+Practised multiple DSA-based real-world problems, including:  
+- HospitalQueue – Patient Sorting by Criticality (Bubble Sort)  
+- SmartShelf – Real-Time Book Arrangement (Insertion Sort)  
+- ZipZipMart – Daily Sales Summary Report (Merge Sort)  
+- EventManager – Ticket Price Optimiser (Quick Sort)  
+- ExamCell – Student Rank Generator (Merge Sort)  
+
+Learned **Java Generics fundamentals**, including:  
+- Type parameters, generic classes and methods  
+- Bounded types and wildcards  
+
+Focused on writing **type-safe and reusable code** while avoiding runtime casting errors.
+
+**Code Links:**  
+- [Sorting Programs]
+  (https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day4)  
+
+- [Generics Programs]  
+  (https://github.com/aryamishra01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/generics)
+
+---
+
+
+
