@@ -346,7 +346,7 @@
 ---
 
 ### 📘 Day 12 –   Sorting Algorithms Problems
-**(Date: 13-Jan-2026)**
+**(Date: 19-Jan-2026)**
 
 ## Scenario-Based Implementations  
 
