@@ -376,7 +376,7 @@
 - Improved understanding of object interaction  
 - Learned how to structure small Java projects logically  
 
-🔗 **OOP Practice Code Link:**  
+🔗 **DSA Scenario Code Link:**  
 👉 [Sorting Scenarios](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day7)
 
 ---
