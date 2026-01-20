@@ -392,4 +392,33 @@ Compares geometric lines using object-oriented design and mathematical logic.
 🔗 **Code Link:**  
 👉 [OOPS Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day11)
 
+---
+
+### 📘 Day 12 – OOPS Scenario-Based Programs   
+*Date:* 19-Jan-2026  
+
+## AddressBookSystem – Contact Management Application  
+Manages contacts and their addresses, allowing users to add, update, and view contacts in a structured address book.
+
+**Files:**  
+`Address.java` – Represents a contact's address details.  
+`Contact.java` – Represents an individual contact with personal and address information.  
+`AddressBook.java` – Stores and manages multiple contacts.  
+`AddressBookApp.java` – Main application to interact with the address book system.  
+
+### 🔍 Concepts Practiced  
+- Encapsulation of contact and address data  
+- Object-oriented modeling of real-world entities  
+- CRUD operations (Create, Read, Update, Delete)  
+- Class interactions and method design  
+- Application of Java collections to manage dynamic data  
+
+### 🎯 Learning Outcomes  
+- Built a functional contact management system using OOP principles  
+- Practiced separating responsibilities across multiple classes  
+- Improved understanding of data encapsulation and class structure  
+- Learned to manage and manipulate lists of objects in Java  
+
+🔗 **Code Link:**  
+👉 [OOPS Scenario Problem](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day12)
 
