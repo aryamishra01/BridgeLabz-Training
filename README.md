@@ -357,7 +357,39 @@ Processes different types of bills using a common payment interface.
 - Improved OOP design thinking with real-world examples  
 
 🔗 **Code Link:**  
-👉 [OOPS Scenario Problems – Day 10](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day10)
+👉 [OOPS Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day10)
 
+---
+
+### 📘 Day 17 – OOPS Abstraction & Interface Applications  
+*Date:* 17-Jan-2026  
+
+## BagNBallOrganizer – Storage Management System  
+Organizes balls into bags using abstraction and interface-based storage rules.
+
+**Files:**  
+`Bag.java`, `Ball.java`, `Storable.java`, `BagBallOrganizerApp.java`
+
+## GeoMeasureSolution – Line Comparison Utility  
+Compares geometric lines using object-oriented design and mathematical logic.
+
+**Files:**  
+`Line.java`, `LineComparisonApp.java`
+
+### 🔍 Concepts Practiced  
+- Interfaces for defining behavior (`Storable`)  
+- Abstraction through base classes  
+- Encapsulation of object data  
+- Object comparison logic  
+- Real-world modeling using Java classes  
+
+### 🎯 Learning Outcomes  
+- Designed reusable interfaces for storage systems  
+- Applied OOP principles to mathematical problems  
+- Improved class responsibility separation  
+- Strengthened abstraction concepts in Java  
+
+🔗 **Code Link:**  
+👉 [OOPS Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day11)
 
 
