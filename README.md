@@ -344,3 +344,39 @@
 👉 [Sorting Scenarios](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day6)
 
 ---
+
+### 📘 Day 12 –   Sorting Algorithms Problems
+**(Date: 19-Jan-2026)**
+
+## Scenario-Based Implementations  
+
+- **EduResults – Student Result Management System**  
+  Manages student marks and displays results using basic OOP concepts.  
+  - `Student.java` – Stores student details and marks  
+  - `StudentResultApp.java` – Main application to calculate and display results  
+
+- **FitnessTracker – Daily Activity Tracking System**  
+  Tracks user fitness activities like steps, calories, and workout duration.  
+  - `User.java` – Stores user profile and fitness data  
+  - `FitnessTrackerApp.java` – Tracks and displays daily fitness summary  
+
+- **FlashDealz – Product Discount Management System**  
+  Manages products and applies discount logic for flash sales.  
+  - `Product.java` – Product details like name, price, and discount  
+  - `FlashDealzApp.java` – Applies discounts and shows final prices  
+
+## 🔍 Key Concepts Practiced  
+- Classes and Objects  
+- Encapsulation using private variables and public methods  
+- Constructors for initializing objects  
+- Basic business logic implementation  
+
+## 🎯 Learning Outcomes  
+- Built real-world mini applications using Java OOP  
+- Improved understanding of object interaction  
+- Learned how to structure small Java projects logically  
+
+🔗 **DSA Scenario Code Link:**  
+👉 [Sorting Scenarios](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day7)
+
+---
