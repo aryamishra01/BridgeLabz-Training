@@ -418,3 +418,34 @@
 
 ---
 
+### 📘 Day 14 – Sorting Algorithms in Business Management Systems  
+**(Date: 21-Jan-2026)**
+
+## Scenario-Based Implementations  
+
+- **MedWarehouse – Medicine Stock Management System (Merge Sort)**  
+  Sorts large medicine inventories based on expiry date or quantity using Merge Sort for efficient warehouse operations.  
+  - `Medicine.java` – Stores medicine details like name, batch number, expiry date, and quantity  
+  - `MedWarehouseUsingMergeSort.java` – Sorts medicine stock using Merge Sort and displays inventory  
+
+- **TailorShop – Customer Order Processing System (Insertion Sort)**  
+  Organizes tailoring orders based on delivery date or order number using Insertion Sort, suitable for small daily orders.  
+  - `Order.java` – Stores order details such as customer name, dress type, and delivery date  
+  - `TailorShopUsingInsertionSort.java` – Sorts orders using Insertion Sort and displays order queue  
+
+## 🔍 Key Concepts Practiced  
+- Applying Merge Sort for large datasets  
+- Using Insertion Sort for small and nearly sorted data  
+- Sorting custom objects with comparison logic  
+- Real-world data modeling using Java classes  
+
+## 🎯 Learning Outcomes  
+- Learned to handle business data using sorting algorithms  
+- Understood efficiency differences between sorting techniques  
+- Improved structuring of scenario-based Java programs  
+- Strengthened problem-to-code mapping skills  
+
+🔗 **DSA Scenario Code Link:**  
+👉 [Sorting Scenarios](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day9)
+
+---
