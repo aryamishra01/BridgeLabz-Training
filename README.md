@@ -380,3 +380,41 @@
 👉 [Sorting Scenarios](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day7)
 
 ---
+
+### 📘 Day 13 – Sorting Algorithms in Real-Life Scenarios  
+**(Date: 20-Jan-2026)**
+
+## Scenario-Based Implementations  
+
+- **FoodFest – Stall Popularity Ranking System (Merge Sort)**  
+  Organizes food stalls in a festival based on customer ratings or sales using Merge Sort for efficient large data handling.  
+  - `Stall.java` – Stores stall details like name, food type, and rating/sales  
+  - `FoodFestUsingMergeSort.java` – Sorts stalls using Merge Sort and displays rankings  
+
+- **GameZone – Player Score Leaderboard (Quick Sort)**  
+  Maintains a real-time leaderboard by sorting players based on scores using Quick Sort for fast average performance.  
+  - `Player.java` – Stores player details such as name, level, and score  
+  - `GamerZoneUsingQuickSort.java` – Sorts players using Quick Sort and displays leaderboard  
+
+- **MovieTime – Theatre Scheduling System (Insertion Sort)**  
+  Arranges movie show timings or theatre lists using Insertion Sort, suitable for small and nearly sorted datasets.  
+  - `Theatre.java` – Stores theatre name, movie name, and show time  
+  - `MovieTimeUsingInsertionSort.java` – Sorts theatres using Insertion Sort and displays schedule  
+
+## 🔍 Key Concepts Practiced  
+- Merge Sort, Quick Sort, and Insertion Sort algorithms  
+- Sorting objects using custom comparison logic  
+- Time complexity comparison of sorting techniques  
+- Working with arrays and object lists  
+
+## 🎯 Learning Outcomes  
+- Understood when to use different sorting algorithms  
+- Learned to apply sorting to real-world style problems  
+- Improved problem-solving using algorithmic thinking  
+- Practiced structuring multi-class Java applications  
+
+🔗 **DSA Scenario Code Link:**  
+👉 [Sorting Scenarios](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day8)
+
+---
+
