@@ -728,10 +728,10 @@ Practised multiple **sorting-based real-world scenarios**, including:
 - FlashDealz – Product Sorting by Discount (Quick Sort)  
 - EduResults – Rank Sheet Generator (Merge Sort)  
 
--**Built an OOPs-based real-world application:**  
+**Built an OOPs-based real-world application:**  
 - Address Book System – Contact Management using OOPs concepts  
 
--**Implemented Java Streams and I/O concepts focusing on:**
+**Implemented Java Streams and I/O concepts focusing on:**
 - File Streams and Object Streams for file-based operations  
 - ByteArray Streams for in-memory data handling  
 - Buffered Streams for performance optimization  
@@ -751,3 +751,27 @@ Understood and applied:
 
 ---
 
+### 📘 Day 29 – Sorting Scenario-Based and Java Exception Handling Problems  
+**(Date: 20-Jan-2026)**
+
+Practised multiple **sorting-based real-world scenarios**, including:  
+- MovieTime – Theatre Show Listings (Insertion Sort)  
+- FoodFest – Sorting Stalls by Customer Footfall (Merge Sort)  
+- GamerZone – High Score Ranking System (Quick Sort)  
+
+**Implemented Java Exception Handling concepts such as:**  
+- Checked, unchecked, and custom exceptions  
+- `try-catch`, `try-catch-finally`, and `try-with-resources`  
+- Using `throw` and `throws` for exception propagation  
+- Creating custom exceptions by extending `Exception` with meaningful constructors  
+
+Focused on:  
+- Safe program execution and graceful failure handling  
+- Proper resource management and debugging practices  
+
+**Code Links:**  
+- [Sorting Programs](https://github.com/aryamishra01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioProblems/src/com/day8)  
+
+- [Java Exception Handling Programs](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/exceptions)
+
+---
