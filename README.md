@@ -1,53 +1,32 @@
 ## Week 4: Java Collections Framework  
 
-### 📅 Day 1 - Generics
+### 📅 Day 1 – Generics  
 **(Date: 15-Jan-2026)**
 
-## Objective  
-Practice **Java Generics** focusing on type safety, reusability, and flexible class design.
+- Practiced Java Generics for type safety and code reusability.  
+- Implemented multiple real-world scenarios using generic classes and methods.  
+- Used bounded type parameters and wildcards for flexible designs.  
+- Ensured compile-time type safety across all implementations.
 
-## CourseManagementSystem  
-Generic handling of different course types.
+## 🔗 Code Practice
 
-**Files:**  
-`Course.java`, `AssignmentCourse.java`, `ExamCourse.java`, `ResearchCourse.java`,  
-`CourseType.java`, `CourseManager.java`, `CourseManagementApp.java`
-
-## DynamicOnlineMarketplace  
-Generic product catalog supporting multiple categories.
-
-**Files:**  
-`Product.java`, `Category.java`, `BookCategory.java`, `ClothingCategory.java`, `GadgetCategory.java`,  
-`ProductCatalog.java`, `DiscountUtil.java`, `OnlineMarketplaceApp.java`
-
-## MealPlanGenerator  
-Meal planning for different diet types using generics.
-
-**Files:**  
-`Meal.java`, `VegetarianMeal.java`, `VeganMeal.java`, `KetoMeal.java`, `HighProteinMeal.java`,  
-`MealPlan.java`, `MealUtil.java`, `MealPlanApp.java`
-
-## ResumeScreeningSystem  
-Resume processing for different job roles with generic constraints.
-
-**Files:**  
-`JobRole.java`, `SoftwareEngineer.java`, `DataScientist.java`, `ProductManager.java`,  
-`Resume.java`, `ScreeningUtil.java`, `ResumeScreeningApp.java`
-
-## SmartWarehouseManagementSystem  
-Inventory storage using generic containers.
-
-**Files:**  
-`WarehouseItem.java`, `Electronics.java`, `Furniture.java`, `Groceries.java`,  
-`Storage.java`, `WarehouseUtil.java`, `SmartWarehouseApp.java`
-
-## Concepts Practiced  
-- Generic Classes and Methods  
-- Bounded Type Parameters (`extends`)  
-- Wildcards (`?`, `? extends`, `? super`)  
-- Compile-time Type Safety
-
-🔗 **Code Link:**  
-👉 [Generics Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/generics)
+👉 **Generics Problems:**  
+[Generics Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/generics)
 
 ---
+
+### 📅 Day 2 – Java Collections Framework (JCF)  
+**(Date: 16-Jan-2026)**
+
+- Studied the purpose, structure, and hierarchy of the **Java Collections Framework**.  
+- Worked with core interfaces: `List`, `Set`, `Queue`, `Deque`, and `Map` along with their implementations.  
+- Compared collections based on performance, ordering, duplication, and thread-safety.  
+- Applied best practices to choose suitable collections for different problem scenarios.
+
+## 🔗 Code Practice
+
+👉 **Collections Problems:**  
+[Collections Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/collections)
+
+---
+
