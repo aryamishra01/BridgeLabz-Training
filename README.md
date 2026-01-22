@@ -719,3 +719,35 @@ Implemented real-world logic such as:
 - [OOPS Programs](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day11)
 
 ---
+
+### 📘 Day 28 – Sorting, OOPs Scenario-based Problems and Java Streams  
+**(Date: 19-Jan-2026)**
+
+Practised multiple **sorting-based real-world scenarios**, including:  
+- FitnessTracker – Daily Step Count Ranking (Bubble Sort)  
+- FlashDealz – Product Sorting by Discount (Quick Sort)  
+- EduResults – Rank Sheet Generator (Merge Sort)  
+
+-**Built an OOPs-based real-world application:**  
+- Address Book System – Contact Management using OOPs concepts  
+
+-**Implemented Java Streams and I/O concepts focusing on:**
+- File Streams and Object Streams for file-based operations  
+- ByteArray Streams for in-memory data handling  
+- Buffered Streams for performance optimization  
+- Reader and Writer classes for character-based data processing  
+
+Understood and applied:  
+- Difference between byte streams and character streams  
+- Buffering techniques for faster I/O operations  
+- Proper resource management using try-with-resources  
+
+**Code Links:**  
+- [Sorting Programs](https://github.com/aryamishra01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioProblems/src/com/day7)  
+
+- [OOPS Scenario-based Programs](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day12/addressbooksystem)
+
+- [Java Streams Programs](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/streams)
+
+---
+
