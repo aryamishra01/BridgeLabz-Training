@@ -380,3 +380,72 @@
 👉 [Sorting Scenarios](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day7)
 
 ---
+
+### 📘 Day 13 – Sorting Algorithms in Real-Life Scenarios  
+**(Date: 20-Jan-2026)**
+
+## Scenario-Based Implementations  
+
+- **FoodFest – Stall Popularity Ranking System (Merge Sort)**  
+  Organizes food stalls in a festival based on customer ratings or sales using Merge Sort for efficient large data handling.  
+  - `Stall.java` – Stores stall details like name, food type, and rating/sales  
+  - `FoodFestUsingMergeSort.java` – Sorts stalls using Merge Sort and displays rankings  
+
+- **GameZone – Player Score Leaderboard (Quick Sort)**  
+  Maintains a real-time leaderboard by sorting players based on scores using Quick Sort for fast average performance.  
+  - `Player.java` – Stores player details such as name, level, and score  
+  - `GamerZoneUsingQuickSort.java` – Sorts players using Quick Sort and displays leaderboard  
+
+- **MovieTime – Theatre Scheduling System (Insertion Sort)**  
+  Arranges movie show timings or theatre lists using Insertion Sort, suitable for small and nearly sorted datasets.  
+  - `Theatre.java` – Stores theatre name, movie name, and show time  
+  - `MovieTimeUsingInsertionSort.java` – Sorts theatres using Insertion Sort and displays schedule  
+
+## 🔍 Key Concepts Practiced  
+- Merge Sort, Quick Sort, and Insertion Sort algorithms  
+- Sorting objects using custom comparison logic  
+- Time complexity comparison of sorting techniques  
+- Working with arrays and object lists  
+
+## 🎯 Learning Outcomes  
+- Understood when to use different sorting algorithms  
+- Learned to apply sorting to real-world style problems  
+- Improved problem-solving using algorithmic thinking  
+- Practiced structuring multi-class Java applications  
+
+🔗 **DSA Scenario Code Link:**  
+👉 [Sorting Scenarios](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day8)
+
+---
+
+### 📘 Day 14 – Sorting Algorithms in Business Management Systems  
+**(Date: 21-Jan-2026)**
+
+## Scenario-Based Implementations  
+
+- **MedWarehouse – Medicine Stock Management System (Merge Sort)**  
+  Sorts large medicine inventories based on expiry date or quantity using Merge Sort for efficient warehouse operations.  
+  - `Medicine.java` – Stores medicine details like name, batch number, expiry date, and quantity  
+  - `MedWarehouseUsingMergeSort.java` – Sorts medicine stock using Merge Sort and displays inventory  
+
+- **TailorShop – Customer Order Processing System (Insertion Sort)**  
+  Organizes tailoring orders based on delivery date or order number using Insertion Sort, suitable for small daily orders.  
+  - `Order.java` – Stores order details such as customer name, dress type, and delivery date  
+  - `TailorShopUsingInsertionSort.java` – Sorts orders using Insertion Sort and displays order queue  
+
+## 🔍 Key Concepts Practiced  
+- Applying Merge Sort for large datasets  
+- Using Insertion Sort for small and nearly sorted data  
+- Sorting custom objects with comparison logic  
+- Real-world data modeling using Java classes  
+
+## 🎯 Learning Outcomes  
+- Learned to handle business data using sorting algorithms  
+- Understood efficiency differences between sorting techniques  
+- Improved structuring of scenario-based Java programs  
+- Strengthened problem-to-code mapping skills  
+
+🔗 **DSA Scenario Code Link:**  
+👉 [Sorting Scenarios](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioProblems/src/com/day9)
+
+---
