@@ -30,3 +30,22 @@
 
 ---
 
+### 📅 Day 3 – Java Streams  
+**(Date: 19-Jan-2026)**
+
+- Implemented Java **I/O Streams** to handle file-based and in-memory data operations efficiently.  
+- Worked with:
+  - File Streams  
+  - Object Streams  
+  - ByteArray Streams  
+  - Buffered Streams  
+  - Reader/Writer classes  
+- Understood the differences between **byte streams** and **character streams** for proper data handling.  
+- Applied key considerations and best practices for:
+  - Performance  
+  - Buffering  
+  - Resource management  
+
+## 🔗 Code Practice
+👉 **Java Streams Problems:**  
+[Java Streams Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/streams)
