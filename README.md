@@ -156,3 +156,26 @@
 
 👉 **Scenario-Based Practice Problems:**  
 [Collections Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioProblems/src/com/day1)
+
+---
+
+### 📅 Day 8 – Collections Scenario-based Problems Practice  
+**(Date: 24-Jan-2026)**
+
+- Practiced **file handling with I/O Streams** using real-world scenarios:
+  - MedInventory – Hospital inventory tracker  
+  - ChatLogParser – Message pattern analyzer  
+  - SongVault – Music library manager  
+  - ExamResultUploader – Bulk marks processing  
+  - DealTracker – E-commerce discount validator  
+
+- Used **Regex** to extract data and validate formats from text, CSV, and source files.
+
+- Applied **Java Collections** (`List`, `Set`, `Map`, `PriorityQueue`) to organize, group, sort, and analyze datasets.
+
+- Implemented **Generics** for building reusable and type-safe solutions.
+
+## 🔗 Code Practice
+
+👉 **Scenario-Based Practice Problems:**  
+[Collections Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioProblems/src/com/day2)
