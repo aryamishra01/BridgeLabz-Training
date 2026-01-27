@@ -73,3 +73,109 @@
 [Java Exception Handling Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/exceptions)
 
 ---
+
+### 📅 Day 5 – Regular Expressions (Regex) and JUnit  
+**(Date: 21-Jan-2026)**
+
+- Learned and practiced **Regex fundamentals**, including:
+  - Metacharacters (`.`, `\d`, `\w`, `^`, `$`)
+  - Quantifiers (`*`, `+`, `?`, `{n}`, `{n,m}`)
+  - Validation patterns for:
+    - Email addresses
+    - Strong passwords
+    - Phone numbers
+
+- Worked with the **Java Regex API**:
+  - Used `Pattern` and `Matcher` classes
+  - Practiced methods: `find()`, `matches()`, `replaceAll()`
+
+- Learned the basics of **JUnit for unit testing**:
+  - Purpose of unit testing in application development
+  - Structure of a test class
+
+- Practiced writing **JUnit test cases** using:
+  - Annotations: `@Test`, `@BeforeEach` / `@BeforeClass`
+  - Assertions: `assertEquals()`, `assertTrue()`, `assertFalse()`, `assertNotNull()`
+
+## 🔗 Code Practice
+
+👉 **Regex Practice Problems:**  
+[Regular Expression Practice](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/regularexpression)
+
+👉 **JUnit Practice Problems:**  
+[JUnit Practice](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/junit)
+
+---
+
+### 📅 Day 6 – Annotations and Reflection in Java  
+**(Date: 22-Jan-2026)**
+
+- Learned the basics of **Annotations in Java** and their role in adding metadata to code.
+
+- Practiced using:
+  - Common built-in annotations (`@Override`, `@Deprecated`, `@SuppressWarnings`)
+  - Custom annotations
+  - Advanced annotations for real-world use cases
+
+- Explored how annotations are processed using:
+  - Reflection
+  - Annotation processing concepts
+
+- Learned **Java Reflection** and practiced:
+  - Accessing classes at runtime
+  - Inspecting methods and fields
+  - Using reflection together with annotations for dynamic behavior
+
+## 🔗 Code Practice
+
+👉 **Annotations Practice Problems:**  
+[Annotations Practice](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/annotations)
+
+👉 **Reflection Practice Problems:**  
+[Reflection Practice](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/reflection)
+
+--- 
+
+### 📅 Day 7 – Collections Scenario-based Problems Practice  
+**(Date: 23-Jan-2026)**
+
+- Practiced **file handling with I/O Streams** using real-world scenarios:
+  - ResumeAnalyzer – Resume filtering system  
+  - TravelLog – Trip organizer  
+  - FeedbackGuru – Survey analyzer  
+  - CodeRepoCleaner – File scanner and organizer  
+  - ExamScanner – Answer sheet validator  
+
+- Used **Regex** to extract and validate data from text, CSV, and source files.
+
+- Applied **Java Collections** (`List`, `Set`, `Map`, `PriorityQueue`) to group, sort, and summarize datasets.
+
+- Implemented **Generics** to build reusable and type-safe components.
+
+## 🔗 Code Practice
+
+👉 **Scenario-Based Practice Problems:**  
+[Collections Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioProblems/src/com/day1)
+
+---
+
+### 📅 Day 8 – Collections Scenario-based Problems Practice  
+**(Date: 24-Jan-2026)**
+
+- Practiced **file handling with I/O Streams** using real-world scenarios:
+  - MedInventory – Hospital inventory tracker  
+  - ChatLogParser – Message pattern analyzer  
+  - SongVault – Music library manager  
+  - ExamResultUploader – Bulk marks processing  
+  - DealTracker – E-commerce discount validator  
+
+- Used **Regex** to extract data and validate formats from text, CSV, and source files.
+
+- Applied **Java Collections** (`List`, `Set`, `Map`, `PriorityQueue`) to organize, group, sort, and analyze datasets.
+
+- Implemented **Generics** for building reusable and type-safe solutions.
+
+## 🔗 Code Practice
+
+👉 **Scenario-Based Practice Problems:**  
+[Collections Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioProblems/src/com/day2)
