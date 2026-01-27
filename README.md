@@ -816,3 +816,43 @@ Learned the **JUnit framework** for unit testing in Java and practiced:
 
 - 👉 **Tree Scenario-Based Problems:**  
   [Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioProblems/src/com/day10)  
+
+---
+
+### 📘 Day 31 – AVL Tree Scenario-Based and Java Annotations and Reflection Practice  
+**(Date: 22-Jan-2026)**
+
+Practised **tree-based real-world scenarios** using self-balancing BST (AVL Tree), including:  
+- Gaming App – Real-Time Leaderboard  
+- Online Ticket Booking by Time  
+- Hospital Queue Management  
+
+Strengthened understanding of:  
+- Tree operations: insert, search, and traversal  
+- Differences between BST and AVL Tree (self-balancing)  
+
+Learned and practiced **Java Annotations**:  
+- Purpose of annotations as code metadata  
+- Built-in annotations (`@Override`, `@Deprecated`, `@SuppressWarnings`)  
+- Creating custom and advanced annotations  
+
+Explored how annotations are handled using:  
+- Reflection  
+- Annotation processing concepts  
+
+Practiced **Java Reflection** to:  
+- Access classes, methods, and fields at runtime  
+- Process annotations dynamically  
+
+**Code Links:**  
+
+- 👉 **AVL Tree Scenario-Based Problems:**  
+  [Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioProblems/src/com/day11)  
+
+- 👉 **Annotations Practice Problems:**  
+  [Annotation Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/annotations)  
+
+- 👉 **Reflection Practice Problems:**  
+  [Reflection Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/reflection)  
+
+---
