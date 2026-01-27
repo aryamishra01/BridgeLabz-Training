@@ -856,3 +856,29 @@ Practiced **Java Reflection** to:
   [Reflection Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/reflection)  
 
 ---
+
+# 📘 Week 5: IO Programming
+
+## 📅 Day 32 – CSV Data Handling and Collections Scenario-Based Problems  
+**(Date: 23-Jan-2026)**
+
+###  Topics & Practice Scenarios
+Practised file handling with **I/O Streams** across real-world scenarios such as:
+
+-  **ResumeAnalyzer** – Smart Resume Filtering System  
+-  **TravelLog** – Trip Organiser for Backpackers  
+-  **FeedbackGuru** – Smart Survey Analyser  
+-  **CodeRepoCleaner** – Java File Scanner and Organiser  
+-  **ExamScanner** – Digital Answer Sheet Validator  
+
+###  Concepts Applied
+- Used **Regex** for extracting emails, ratings, keywords, and validating formats in text, CSV, and source files.
+- Used **Java Collections Framework** (**List, Set, Map, PriorityQueue**) to organise, group, sort, and summarise large datasets.
+- Learned the basics of **CSV (Comma-Separated Values)** format and its real-world use cases.
+- Practised reading from and writing to CSV files efficiently.
+- Parsed CSV data into usable formats for further processing.
+- Applied data validation techniques to ensure accuracy and consistency.
+
+### 🔗 Code Links
+👉 [CSV Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-io-streams-practice/java-io-streams-practice/gcr-codebase/IOStreamsPractice/src/com/csvdatahandling)  
+👉 [Scenario-Based Practice Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioProblems/src/com/day1)
