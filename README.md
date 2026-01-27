@@ -775,3 +775,44 @@ Focused on:
 - [Java Exception Handling Programs](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/exceptions)
 
 ---
+
+### 📘 Day 30 – Sorting, Tree Scenario-Based and Java Regex and JUnit Practice  
+**(Date: 21-Jan-2026)**
+
+Practised multiple **data structure and sorting–based real-world scenarios**, including:  
+- E-Commerce Product Inventory (Binary Search Tree)  
+- University Digital Record System (Binary Search Tree)  
+- Music App – Organize Songs by Track ID (Binary Search Tree)  
+- TailorShop – Sorting Orders by Delivery Deadline (Insertion Sort)  
+- MedWarehouse – Sorting Medicines by Expiry Date (Merge Sort)  
+
+Strengthened understanding of:  
+- BST operations: insert, search, and traversal  
+- Applying sorting algorithms in practical use cases  
+
+Also learned and practiced **Java Regular Expressions (Regex)**:  
+- Metacharacters and quantifiers  
+- Validation patterns for:
+  - Email addresses  
+  - Password strength  
+  - Phone number formats  
+
+Worked with the **Java Regex API** using:  
+- `Pattern` and `Matcher` classes  
+- Methods: `find()`, `matches()`, `replaceAll()`  
+
+Learned the **JUnit framework** for unit testing in Java and practiced:  
+- Writing structured test classes  
+- Using annotations (`@Test`, `@BeforeEach` / `@BeforeClass`)  
+- Applying assertions to verify results  
+
+**Code Links:**  
+
+- 👉 **Regex Practice Problems:**  
+  [Regex Practice](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/regularexpression) 
+
+- 👉 **Sorting Scenario-Based Problems:**  
+  [Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioProblems/src/com/day9) 
+
+- 👉 **Tree Scenario-Based Problems:**  
+  [Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioProblems/src/com/day10)  
