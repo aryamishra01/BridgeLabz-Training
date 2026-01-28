@@ -881,4 +881,34 @@ Practised file handling with **I/O Streams** across real-world scenarios such as
 
 ### 🔗 Code Links
 👉 [CSV Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-io-streams-practice/java-io-streams-practice/gcr-codebase/IOStreamsPractice/src/com/csvdatahandling)  
-👉 [Scenario-Based Practice Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioProblems/src/com/day1)
+👉 [Collection Scenario-Based Practice Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioProblems/src/com/day1)
+
+---
+
+## 📅 Day 33 – JSON Data and Collections Scenario-Based Problems  
+(Date: 24-Jan-2026)
+
+### Topics Covered
+- Learned the fundamentals of JSON, including its structure, syntax, and supported data types.
+- Practised creating JSON objects, nested objects, and JSON arrays using org.json, Gson, and Jackson libraries.
+- Implemented reading, writing, and parsing JSON data using both POJOs and dynamic approaches.
+- Gained hands-on experience in validating JSON data using JSON Schema to ensure structural correctness.
+
+### Scenario-Based Practice with I/O Streams
+Practised file handling with I/O Streams across real-world scenarios like:
+- MedInventory – Smart Hospital Inventory Tracker
+- ChatLogParser – Messaging Pattern Analyser
+- SongVault – Personal Music Library Manager
+- ExamResultUploader – Bulk Marks Processing
+- DealTracker – E-Commerce Discount Validator
+
+### Concepts Applied
+- Gained hands-on experience using Regex to extract emails, ratings, and keywords, and to validate formats across text, CSV, and source files.
+- Utilised Java Collections (List, Set, Map, PriorityQueue) to efficiently organise, group, sort, and analyse large volumes of data.
+
+### 🔗 Code Links
+👉 JSON Problems  
+[Json Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-io-streams-practice/java-io-streams-practice/gcr-codebase/IOStreamsPractice/src/com/jsondatahandling)  
+
+👉 Scenario-Based Practice Problems  
+[Collections Scenario-Based Practice Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioProblems/src/com/day2)
