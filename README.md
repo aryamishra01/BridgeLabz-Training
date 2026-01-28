@@ -811,6 +811,9 @@ Learned the **JUnit framework** for unit testing in Java and practiced:
 - 👉 **Regex Practice Problems:**  
   [Regex Practice](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/regularexpression) 
 
+- 👉 **Junit Practice Problems:**  
+  [Junit Practice](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/Junit) 
+
 - 👉 **Sorting Scenario-Based Problems:**  
   [Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioProblems/src/com/day9) 
 
