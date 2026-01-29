@@ -889,7 +889,7 @@ Practised file handling with **I/O Streams** across real-world scenarios such as
 ---
 
 ## 📅 Day 33 – JSON Data and Collections Scenario-Based Problems  
-(Date: 24-Jan-2026)
+**(Date: 24-Jan-2026)**
 
 ### Topics Covered
 - Learned the fundamentals of JSON, including its structure, syntax, and supported data types.
@@ -911,7 +911,9 @@ Practised file handling with I/O Streams across real-world scenarios like:
 
 ### 🔗 Code Links
 👉 JSON Problems  
-[Json Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-io-streams-practice/java-io-streams-practice/gcr-codebase/IOStreamsPractice/src/com/jsondatahandling)  
+[Json Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-io-streams-practice/java-io-streams-practice/gcr-codebase/IOStreamsPractice/src/com/jsondatahandling/practiceproblems)  
 
 👉 Scenario-Based Practice Problems  
 [Collections Scenario-Based Practice Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioProblems/src/com/day2)
+
+---
