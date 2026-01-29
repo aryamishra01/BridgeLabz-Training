@@ -24,6 +24,6 @@
 - Gained hands-on experience in validating JSON data using **JSON Schema** to ensure structural correctness.
 
 ### 🔗 Code Link
-👉 [JSON Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-io-streams-practice/java-io-streams-practice/gcr-codebase/IOStreamsPractice/src/com/jsondatahandling)
+👉 [JSON Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-io-streams-practice/java-io-streams-practice/gcr-codebase/IOStreamsPractice/src/com/jsondatahandling/practiceproblems)
 
 ---
