@@ -917,10 +917,11 @@ Practised file handling with I/O Streams across real-world scenarios like:
 [Collections Scenario-Based Practice Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioProblems/src/com/day2)
 
 ---
+## 📅 Week 6 – Java 8 and its Features
 
 # Java Functional Programming
 
-### 📅 Day 1 – Java Lambdas & Method References
+### 📅 Day 34 – Java Lambdas & Method References
 **(Date: 27-01-2026)**
 
 ## Lambda Expressions
