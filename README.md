@@ -1019,3 +1019,45 @@ The focus was on:
 
 ---
 
+### 📅 Day 37 – Java 8 Logical Questions Practice  
+**(Date: 31-Jan-2026)**
+
+Practised a variety of **Java 8 logical and interview-oriented problems** to strengthen problem-solving skills using functional programming concepts.
+
+The focus was on transforming collections, processing strings, and solving real-world logical scenarios using **Streams API**, **Lambda Expressions**, and other Java 8 features.
+
+### Topics Practised in Detail
+
+#### Collection Conversions using Streams
+- List → Map
+- Map → List
+- List ↔ Set
+- Array ↔ Collection  
+- Used `Collectors`, mapping functions, and stream pipelines for clean transformations
+
+####  Object Collection Transformations
+- Grouping objects based on properties
+- Aggregation and classification scenarios
+- Applied `groupingBy`, `mapping`, and `reducing`
+
+####  String-Based Logical Problems
+- Character frequency count
+- Filtering specific characters
+- String processing using streams
+- Converted strings to streams for functional operations
+
+####  Stream Logical Scenarios
+- Filtering and mapping data
+- Sorting collections
+- Grouping and partitioning
+- Reduction operations like sum, max, min, and count
+
+####  Java 8 Features in Interview Scenarios
+- Lambda Expressions
+- Functional Interfaces
+- Optional Class
+- Streams API  
+- Applied concepts in **interview-focused logical questions**
+
+### 🔗 Code Link
+👉 [Logical Questions – Java 8 Practice](https://github.com/aryamishra01/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/logical-problems/LogicalProblems/src/com/streamslogical1)
