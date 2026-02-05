@@ -976,3 +976,46 @@ Practised file handling with I/O Streams across real-world scenarios like:
 
 ---
 
+### 📅 Day 36 – Java 8 Scenario-Based Questions Practice  
+**(Date: 29–30 Jan 2026)**
+
+Practised a wide range of **scenario-based problems** using **Java 8 features** to understand how functional programming concepts are applied in real-world applications.
+
+The focus was on:
+- Writing **clean, readable, and efficient code**
+- Replacing traditional **imperative logic** with **modern Java constructs**
+
+### Topics Practised in Detail
+
+####  Lambda Expressions
+- Used to simplify **anonymous classes**
+- Implemented concise, **behaviour-driven logic**
+- Improved code readability and reduced boilerplate
+
+####  Functional Interfaces
+- Practised built-in interfaces:
+  - `Predicate`
+  - `Function`
+  - `Consumer`
+  - `Supplier`
+- Applied them to model **business rules and conditions**
+
+####  Streams API
+- Solved problems involving:
+  - Filtering
+  - Mapping
+  - Grouping
+  - Sorting
+  - Aggregation
+- Used streams to process collections in a **declarative and functional style**
+
+####  Optional Class
+- Handled **null-sensitive scenarios** safely
+- Avoided `NullPointerException`
+- Designed cleaner APIs using **Optional-based approach**
+
+### 🔗 Code Links
+👉[Java8 Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Practice/src/com/scenariobasedproblems)
+
+---
+
