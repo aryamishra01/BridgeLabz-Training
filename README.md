@@ -1015,7 +1015,7 @@ The focus was on:
 - Designed cleaner APIs using **Optional-based approach**
 
 ### 🔗 Code Links
-👉[Java8 Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Practice/src/com/scenariobasedproblems)
+👉[Java8 Scenario Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/Java8ScenarioProblems/src/com/employeesystem)
 
 ---
 
