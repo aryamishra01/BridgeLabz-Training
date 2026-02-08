@@ -1,0 +1,76 @@
+/*
+Exercise 1: Simple CRUD Application
+Create a console-based Employee Management System with:
+• Add employee
+• View all employees
+• Update employee salary
+• Delete employee
+• Search employee by name
+*/
+
+create database employee_management_system;
+
+use employee_management_system;
+ 
+create table Employee_Details(
+    -> emp_id INT PRIMARY KEY,
+    -> name VARCHAR(10),
+    -> salary DOUBLE,
+    -> city VARCHAR(20));
+    
+insert into Employee_Details values
+    -> (1,'Arya',800000,'Pune'),
+    -> (2,'Bhumika',90000,'Banglore');
+    -> (3,'Disha',800000,'Mumbai'),
+    -> (4,'Rashi',850000,'Mumbai'),
+    -> (5,'Yukta',900000,'Banglore'),
+    -> (6,'Shraddha',850000,'Delhi'); 
+     
+select name from Employee_Details;
++----------+
+| name     |
++----------+
+| Arya     |
+| Bhumika  |
+| Disha    |
+| Rashi    |
+| Yukta    |
+| Shraddha |
++----------+
+    
+update Employee_Details
+    -> set salary = 950000
+    -> where emp_id = 2; 
++--------+---------+--------+----------+
+| emp_id | name    | salary | city     |
++--------+---------+--------+----------+
+|      1 | Arya    | 800000 | Pune     |
+|      2 | Bhumika | 950000 | Banglore |
+|      3 | Disha   | 800000 | Mumbai   |
+|      4 | Rashi   | 850000 | Mumbai   |
+|      5 | Yukta   | 900000 | Banglore |
+|	   6 | Shraddha| 850000 | Delhi    |
++--------+---------+--------+----------+
+  
+delete from Employee_Details
+    -> where emp_id = 6;
+      
+select * from Employee_Details;
++--------+---------+--------+----------+
+| emp_id | name    | salary | city     |
++--------+---------+--------+----------+
+|      1 | Arya    | 800000 | Pune     |
+|      2 | Bhumika | 950000 | Banglore |
+|      3 | Disha   | 800000 | Mumbai   |
+|      4 | Rashi   | 850000 | Mumbai   |
+|      5 | Yukta   | 900000 | Banglore |
++--------+---------+--------+----------+
+
+select * from Employee_Details
+    -> where name = 'Arya';
++--------+------+--------+------+
+| emp_id | name | salary | city |
++--------+------+--------+------+
+|      1 | Arya | 800000 | Pune |
++--------+------+--------+------+  
+ 
