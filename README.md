@@ -1089,3 +1089,21 @@ The focus was on transforming collections, processing strings, and solving real-
 👉[Multithreading Practice Questions](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/MultithreadingPractice/src/com)
 
 ---
+
+### 📅 Day 39 – Bank Transactions Using Multithreading  
+**(Date: 03-02-2026)**
+
+## Concurrent Bank Transaction Simulation
+- **Thread-Safe Bank Class**: Implemented synchronized deposit, withdrawal, and balance methods.
+- **Multiple Customer Threads**: Simulated concurrent transactions using multiple threads.
+- **Race Condition Handling**: Ensured correct final balance using synchronization.
+- **Real-World Application**: Understood how concurrency is handled in financial systems.
+
+## Learning Outcome
+- Strengthened concepts of thread creation, synchronization, and concurrent programming.
+- Improved understanding of real-world transaction handling scenarios.
+
+### 🔗 Code Link
+👉[Multithreading Practice Question](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/MultithreadingPractice/src/com/bankingsystem)
+
+---
