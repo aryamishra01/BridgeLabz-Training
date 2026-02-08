@@ -987,12 +987,12 @@ The focus was on:
 
 ### Topics Practised in Detail
 
-####  Lambda Expressions
+##  Lambda Expressions
 - Used to simplify **anonymous classes**
 - Implemented concise, **behaviour-driven logic**
 - Improved code readability and reduced boilerplate
 
-####  Functional Interfaces
+##  Functional Interfaces
 - Practised built-in interfaces:
   - `Predicate`
   - `Function`
@@ -1000,7 +1000,7 @@ The focus was on:
   - `Supplier`
 - Applied them to model **business rules and conditions**
 
-####  Streams API
+##  Streams API
 - Solved problems involving:
   - Filtering
   - Mapping
@@ -1009,7 +1009,7 @@ The focus was on:
   - Aggregation
 - Used streams to process collections in a **declarative and functional style**
 
-####  Optional Class
+##  Optional Class
 - Handled **null-sensitive scenarios** safely
 - Avoided `NullPointerException`
 - Designed cleaner APIs using **Optional-based approach**
@@ -1019,7 +1019,7 @@ The focus was on:
 
 ---
 
-### 📅 Day 37 – Java 8 Logical Questions Practice  
+### 📅 Day 37 – Java 8 Logical Questions Practice and Software Design Principles & GoF Design Patterns 
 **(Date: 31-Jan-2026)**
 
 Practised a variety of **Java 8 logical and interview-oriented problems** to strengthen problem-solving skills using functional programming concepts.
@@ -1028,36 +1028,42 @@ The focus was on transforming collections, processing strings, and solving real-
 
 ### Topics Practised in Detail
 
-#### Collection Conversions using Streams
+## Collection Conversions using Streams
 - List → Map
 - Map → List
 - List ↔ Set
 - Array ↔ Collection  
 - Used `Collectors`, mapping functions, and stream pipelines for clean transformations
 
-####  Object Collection Transformations
+##  Object Collection Transformations
 - Grouping objects based on properties
 - Aggregation and classification scenarios
 - Applied `groupingBy`, `mapping`, and `reducing`
 
-####  String-Based Logical Problems
+##  String-Based Logical Problems
 - Character frequency count
 - Filtering specific characters
 - String processing using streams
 - Converted strings to streams for functional operations
 
-####  Stream Logical Scenarios
+##  Stream Logical Scenarios
 - Filtering and mapping data
 - Sorting collections
 - Grouping and partitioning
 - Reduction operations like sum, max, min, and count
 
-####  Java 8 Features in Interview Scenarios
-- Lambda Expressions
-- Functional Interfaces
-- Optional Class
-- Streams API  
-- Applied concepts in **interview-focused logical questions**
+## Software Design Principles
+- **SOLID Principles**: Studied SRP, OCP, LSP, ISP, and DIP to design maintainable and scalable applications.
+- **Clean Code Practices**: Applied DRY (Don’t Repeat Yourself), KISS (Keep It Simple, Stupid), and YAGNI (You Aren’t Gonna Need It) to improve code quality.
+- **Better Architecture Decisions**: Focused on writing modular, reusable, and loosely coupled code.
+- **Real-World Relevance**: Learned how proper design principles help in long-term project maintainability and scalability.
+
+## GoF Design Patterns
+- **Pattern Categories**: Studied Creational, Structural, and Behavioural design patterns.
+- **Commonly Used Patterns**: Practised Singleton, Factory, Observer, and Builder patterns.
+- **Reusability and Maintainability**: Understood how design patterns provide reusable solutions to common software design problems.
 
 ### 🔗 Code Link
+👉[Design Pattern Practice Question](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignPatternPractice/src/com/librarymanagementsystem)
+
 👉 [Logical Questions – Java 8 Practice](https://github.com/aryamishra01/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/logical-problems/LogicalProblems/src/com/streamslogical1)
