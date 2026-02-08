@@ -86,4 +86,4 @@ The main objective was to improve problem-solving skills using **modern Java fea
 - Learned to write **cleaner, more maintainable Java code**  
 
 🔗 **Code Link:**  
-👉[Scenario Based Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/Java8ScenarioProblems/src/com/employeesystem)
+👉[Scenario Based Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/Java8ScenarioProblems/src/com)
