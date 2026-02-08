@@ -1065,5 +1065,27 @@ The focus was on transforming collections, processing strings, and solving real-
 
 ### 🔗 Code Link
 👉[Design Pattern Practice Question](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignPatternPractice/src/com/librarymanagementsystem)
-
 👉 [Logical Questions – Java 8 Practice](https://github.com/aryamishra01/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/logical-problems/LogicalProblems/src/com/streamslogical1)
+
+---
+
+### 📅 Day 38 – Java Multithreading  
+**(Date: 02-02-2026)**
+
+## Java Multithreading Concepts
+- **Thread Creation**: Implemented threads using Thread class and Runnable interface.
+- **Thread Lifecycle**: Studied different states of a thread and transitions between them.
+- **Synchronization**: Prevented race conditions using synchronized methods and blocks.
+- **Locks and Concurrency Utilities**: Learned about ReentrantLock and Executor framework.
+- **Inter-Thread Communication**: Practised wait(), notify(), and notifyAll().
+- **Callable and Future**: Implemented asynchronous tasks returning results.
+- **ThreadLocal**: Explored thread-specific variables for safe data handling.
+
+## Practical Understanding
+- **Real-World Scenarios**: Focused on thread safety, performance optimization, and concurrency handling.
+- **Hands-On Practice**: Solved practical problems to strengthen conceptual understanding.
+
+### 🔗 Code Link
+👉[Multithreading Practice Questions](https://github.com/aryamishra01/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/MultithreadingPractice/src/com)
+
+---
