@@ -54,3 +54,36 @@
 👉[Collectors](https://github.com/aryamishra01/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Practice/src/com/collectors)
 
 ---
+
+### 📅 Day 3 – Java 8 Scenario-Based Questions Practice  
+**(Date: 29–30 Jan 2026)**  
+
+Practised a wide range of **scenario-based problems using Java 8** to understand how functional programming concepts are applied in real-world applications.  
+
+The main objective was to improve problem-solving skills using **modern Java features**, write **clean and readable code**, and replace traditional loops and conditional-heavy logic with **Streams, Lambdas, and Functional Interfaces**.
+
+### Topics Practised in Detail
+
+- **Lambda Expressions**  
+  Used lambda expressions to simplify anonymous classes, reduce boilerplate code, and implement behaviour-driven logic in a concise way.
+
+- **Functional Interfaces**  
+  Practised built-in functional interfaces such as **Predicate, Function, Consumer, and Supplier** and understood how they help in writing reusable and flexible code.
+
+- **Streams API**  
+  Solved multiple collection-based problems involving:
+  - Filtering data  
+  - Mapping and transformation  
+  - Sorting and grouping  
+  - Aggregation and reduction operations  
+
+- **Optional Class**  
+  Learned how to safely handle null values using **Optional**, avoiding `NullPointerException` and improving code safety and readability.
+
+### Key Learning Outcomes
+- Better understanding of **functional programming concepts in Java**  
+- Improved ability to solve **real-world scenario-based problems**  
+- Learned to write **cleaner, more maintainable Java code**  
+
+🔗 **Code Link:**  
+👉[Scenario Based Problems](https://github.com/aryamishra01/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/Java8ScenarioProblems/src/com/employeesystem)
