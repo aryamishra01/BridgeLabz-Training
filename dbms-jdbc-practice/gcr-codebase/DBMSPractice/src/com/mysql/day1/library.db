@@ -1,0 +1,152 @@
+create database library_management;
+use library_management;
+
+create table books(
+    -> book_id INT PRIMARY KEY,
+    -> title VARCHAR(50),
+    -> author VARCHAR(20),
+    -> category VARCHAR(30),
+    -> available_copies INT);
+    
+create table students (
+    ->     student_id INT PRIMARY KEY,
+    ->     student_name VARCHAR(50),
+    ->     course VARCHAR(50)
+    -> );
+    
+create table borrow_records (
+    ->     borrow_id INT AUTO_INCREMENT PRIMARY KEY,
+    ->     student_id INT,
+    ->     book_id INT,
+    ->     borrow_date DATE,
+    ->     return_date DATE,
+    ->     fine DECIMAL(8,2),
+    ->     FOREIGN KEY (student_id) REFERENCES students(student_id),
+    ->     FOREIGN KEY (book_id) REFERENCES books(book_id)
+    -> );
+    
+insert into books values
+    -> (1, 'Java Basics', 'James Gosling', 'Programming', 5),
+    -> (2, 'Database System', 'Korth', 'Database', 3),
+    -> (3, 'Python Guide', 'Mark Lutz', 'Programming', 4);
+    
+ select * from books;
++---------+-----------------+---------------+-------------+------------------+
+| book_id | title           | author        | category    | available_copies |
++---------+-----------------+---------------+-------------+------------------+
+|       1 | Java Basics     | James Gosling | Programming |                5 |
+|       2 | Database System | Korth         | Database    |                3 |
+|       3 | Python Guide    | Mark Lutz     | Programming |                4 |
++---------+-----------------+---------------+-------------+------------------+
+    
+insert into students values
+    -> (101,'Arya','AI&DS'),
+    -> (102,'Riya','CS');
+    
+select * from students;
++------------+--------------+--------+
+| student_id | student_name | course |
++------------+--------------+--------+
+|        101 | Arya         | AI&DS  |
+|        102 | Riya         | CS     |
++------------+--------------+--------+
+   
+insert into borrow_records(student_id, book_id, borrow_date)
+    -> values (101, 1, CURDATE());
+    
+select * from borrow_records;
++-----------+------------+---------+-------------+-------------+------+
+| borrow_id | student_id | book_id | borrow_date | return_date | fine |
++-----------+------------+---------+-------------+-------------+------+
+|         1 |        101 |       1 | 2026-02-06  | NULL        | NULL |
++-----------+------------+---------+-------------+-------------+------+
+
+update books
+    -> set available_copies = available_copies - 1
+    -> where book_id = 1;
+
+select * from books;
++---------+-----------------+---------------+-------------+------------------+
+| book_id | title           | author        | category    | available_copies |
++---------+-----------------+---------------+-------------+------------------+
+|       1 | Java Basics     | James Gosling | Programming |                4 |
+|       2 | Database System | Korth         | Database    |                3 |
+|       3 | Python Guide    | Mark Lutz     | Programming |                4 |
++---------+-----------------+---------------+-------------+------------------+
+
+update borrow_records
+    -> set return_date = CURDATE()
+    -> where borrow_id = 1;
+ select * from borrow_records;
++-----------+------------+---------+-------------+-------------+------+
+| borrow_id | student_id | book_id | borrow_date | return_date | fine |
++-----------+------------+---------+-------------+-------------+------+
+|         1 |        101 |       1 | 2026-02-06  | 2026-02-07  | NULL |
++-----------+------------+---------+-------------+-------------+------+
+
+update books
+    -> set available_copies = available_copies + 1
+    -> where book_id = 1;
+    
+select * from books;
++---------+-----------------+---------------+-------------+------------------+
+| book_id | title           | author        | category    | available_copies |
++---------+-----------------+---------------+-------------+------------------+
+|       1 | Java Basics     | James Gosling | Programming |                6 |
+|       2 | Database System | Korth         | Database    |                4 |
+|       3 | Python Guide    | Mark Lutz     | Programming |                5 |
++---------+-----------------+---------------+-------------+------------------+
+
+update borrow_records
+    -> SET fine =
+    ->     CASE
+    ->         WHEN DATEDIFF(return_date, borrow_date) > 7
+    ->         THEN (DATEDIFF(return_date, borrow_date) - 7) * 5
+    ->         ELSE 0
+    ->     END;
+    
+SELECT s.student_name, b.title, br.borrow_date, br.return_date, br.fine
+    -> FROM borrow_records br
+    -> JOIN students s ON br.student_id = s.student_id
+    -> JOIN books b ON br.book_id = b.book_id;
++--------------+-------------+-------------+-------------+------+
+| student_name | title       | borrow_date | return_date | fine |
++--------------+-------------+-------------+-------------+------+
+| Arya         | Java Basics | 2026-02-06  | 2026-02-07  | 0.00 |
++--------------+-------------+-------------+-------------+------+
+
+select * from books
+    -> where author = 'James Gosling';
++---------+-------------+---------------+-------------+------------------+
+| book_id | title       | author        | category    | available_copies |
++---------+-------------+---------------+-------------+------------------+
+|       1 | Java Basics | James Gosling | Programming |                6 |
++---------+-------------+---------------+-------------+------------------+
+
+select * from books
+    -> where category = 'Programming';
++---------+--------------+---------------+-------------+------------------+
+| book_id | title        | author        | category    | available_copies |
++---------+--------------+---------------+-------------+------------------+
+|       1 | Java Basics  | James Gosling | Programming |                6 |
+|       3 | Python Guide | Mark Lutz     | Programming |                5 |
++---------+--------------+---------------+-------------+------------------+
+
+select * from books
+    -> where available_copies > 0;
++---------+-----------------+---------------+-------------+------------------+
+| book_id | title           | author        | category    | available_copies |
++---------+-----------------+---------------+-------------+------------------+
+|       1 | Java Basics     | James Gosling | Programming |                6 |
+|       2 | Database System | Korth         | Database    |                4 |
+|       3 | Python Guide    | Mark Lutz     | Programming |                5 |
++---------+-----------------+---------------+-------------+------------------+
+
+select * from books
+    -> where category = 'Programming'
+    -> and author = 'James Gosling';
++---------+-------------+---------------+-------------+------------------+
+| book_id | title       | author        | category    | available_copies |
++---------+-------------+---------------+-------------+------------------+
+|       1 | Java Basics | James Gosling | Programming |                6 |
++---------+-------------+---------------+-------------+------------------+
