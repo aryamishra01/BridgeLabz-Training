@@ -12,10 +12,15 @@
 bin/
 target/
 module-info.java
-
+.mvn/
+pom.xml
 # ===============================
 # Logs & OS files
 # ===============================
 *.log
 .DS_Store
 Thumbs.db
+
+
+# Ignore other branch folder
+java-collections-practice/
