@@ -1,0 +1,15 @@
+2. Doctor Management
+
+UC-2.1: Add Doctor Profile
+mysql> create table specialities(
+    -> specialty_id int auto_increment primary key,
+    -> specialty_name varchar(100) unique not null );
+Query OK
+
+
+mysql> insert into specialities(specialty_name)
+    -> values ('Cardiology'),
+    -> ('Neurology'),
+    -> ('Orthopedics'),
+    -> ('Dermatology');
+Query OK

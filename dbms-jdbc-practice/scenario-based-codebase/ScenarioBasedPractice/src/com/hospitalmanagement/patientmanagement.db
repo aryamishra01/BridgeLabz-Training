@@ -1,0 +1,83 @@
+mysql> create database hospitalmanagement;
+
+mysql> use hospitalmanagement;
+Database changed
+
+mysql> create table patients
+    -> ( patient_id int auto_increment primary key,
+    -> name varchar(50),
+    -> dob date,
+    -> phone varchar(15) unique,
+    -> address varchar(50),
+    -> blood_group varchar(20),
+    -> email varchar(50));
+Query OK
+
+mysql> insert into patients(name,dob,phone,address,blood_group,email)
+    -> values('Arya Mishra','2004-09-24','8838109562','Jabalpur','O+','aryaamishra0001@gmail.com'),
+    -> ('Bhumika Shrivas','2004-03-15','8104023989','Bhopal','A+','bhumikashrivas12@gmail.com');
+Query OK
+
+mysql> select * from patients;
++------------+-----------------+------------+------------+----------+-------------+----------------------------+
+| patient_id | name            | dob        | phone      | address  | blood_group | email                      |
++------------+-----------------+------------+------------+----------+-------------+----------------------------+
+|          1 | Arya Mishra     | 2004-09-24 | 8838109562 | Jabalpur | O+          | aryaamishra0001@gmail.com  |
+|          2 | Bhumika Shrivas | 2004-03-15 | 8104023989 | Bhopal   | A+          | bhumikashrivas12@gmail.com |
++------------+-----------------+------------+------------+----------+-------------+----------------------------+
+
+UC-1.2 Update Patient Information
+
+mysql> select * from patients
+    -> where patient_id = 1;
++------------+-------------+------------+------------+----------+-------------+---------------------------+
+| patient_id | name        | dob        | phone      | address  | blood_group | email                     |
++------------+-------------+------------+------------+----------+-------------+---------------------------+
+|          1 | Arya Mishra | 2004-09-24 | 8838109562 | Jabalpur | O+          | aryaamishra0001@gmail.com |
++------------+-------------+------------+------------+----------+-------------+---------------------------+
+
+mysql> update patients
+    -> set address = 'Indore',
+    -> phone = '9876549999'
+    -> where patient_id = 1;
+Query OK
+
+mysql> select * from patients;
++------------+-----------------+------------+------------+---------+-------------+----------------------------+
+| patient_id | name            | dob        | phone      | address | blood_group | email                      |
++------------+-----------------+------------+------------+---------+-------------+----------------------------+
+|          1 | Arya Mishra     | 2004-09-24 | 9876549999 | Indore  | O+          | aryaamishra0001@gmail.com  |
+|          2 | Bhumika Shrivas | 2004-03-15 | 8104023989 | Bhopal  | A+          | bhumikashrivas12@gmail.com |
++------------+-----------------+------------+------------+---------+-------------+----------------------------+
+
+UC-1.3 Search Patient Records
+
+Search by Name
+mysql> select * from patients
+    -> where name like '%Arya Mishra%';
++------------+-------------+------------+------------+---------+-------------+---------------------------+
+| patient_id | name        | dob        | phone      | address | blood_group | email                     |
++------------+-------------+------------+------------+---------+-------------+---------------------------+
+|          1 | Arya Mishra | 2004-09-24 | 9876549999 | Indore  | O+          | aryaamishra0001@gmail.com |
++------------+-------------+------------+------------+---------+-------------+---------------------------+
+
+Search by phone 
+mysql> select * from patients
+    -> where phone = '9876549999';
++------------+-------------+------------+------------+---------+-------------+---------------------------+
+| patient_id | name        | dob        | phone      | address | blood_group | email                     |
++------------+-------------+------------+------------+---------+-------------+---------------------------+
+|          1 | Arya Mishra | 2004-09-24 | 9876549999 | Indore  | O+          | aryaamishra0001@gmail.com |
++------------+-------------+------------+------------+---------+-------------+---------------------------+
+
+Search by id
+mysql> select * from patients
+    -> where patient_id = 1;
++------------+-------------+------------+------------+---------+-------------+---------------------------+
+| patient_id | name        | dob        | phone      | address | blood_group | email                     |
++------------+-------------+------------+------------+---------+-------------+---------------------------+
+|          1 | Arya Mishra | 2004-09-24 | 9876549999 | Indore  | O+          | aryaamishra0001@gmail.com |
++------------+-------------+------------+------------+---------+-------------+---------------------------+
+
+UC-1.4 View Patient Visit History
+
